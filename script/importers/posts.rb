@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 ##### run as:
-# $ ruby  ./script/mkcat.rb
+# $ ruby  ./script/importers/posts.rb
 
 require 'pp'
 require 'yaml'
