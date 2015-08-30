@@ -7,9 +7,10 @@ require 'pp'
 require 'yaml'
 
 
-repo = File.expand_path( '~/github/drjekyllthemes/themes' )
+themes_repo = File.expand_path( '../themes' )
+site_repo   = File.expand_path( '../drjekyllthemes.github.io' )
 
-text   = File.read( "#{repo}/themes.yml" )
+text   = File.read( "#{themes_repo}/themes.yml" )
 themes = YAML.load( text )
 
 pp themes
@@ -34,6 +35,6 @@ end
 
 puts YAML.dump( hash )
 
-File.open( "#{repo}/o/themes.yml", 'w' ) do |f|
+File.open( "#{site_repo}/_data/o/themes/themes.yml", 'w' ) do |f|
   f.write YAML.dump( hash )
 end

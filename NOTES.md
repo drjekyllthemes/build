@@ -1,7 +1,20 @@
-# Jekyll Theme Listing Sources
+# Notes
+
+## Todos
+
+- [ ] change hompage to source_url ??
+- [ ] change demo   to demo_url ??
+- [ ] change  thumbnail to screenshot ??
+
+<!--- new list -->
+
+- [ ] auto-generate donwload link from github link??
 
 
-## Jekyll 
+
+## Jekyll Theme Listing Sources
+
+### Jekyll 
 
 - [Themes @ Wiki ](https://github.com/jekyll/jekyll/wiki/Themes)
 
@@ -13,7 +26,7 @@ Single Markdown wiki page (a list item with links for each theme) e.g.
 * Pixyll - ([source](https://github.com/johnotander/pixyll), [demo](http://pixyll.com/))
 ~~~
 
-## Jekyll Tips by CloudCannon Ltd.
+### Jekyll Tips by CloudCannon Ltd.
 
 - [Templates](http://jekyll.tips/templates)
 
@@ -45,7 +58,7 @@ Rendered via
 ~~~
 
 
-## JekyllThemes.org by Matt Harzewski (et al)
+### JekyllThemes.org by Matt Harzewski (et al)
 
 - [Themes](http://jekyllthemes.org)
 
@@ -69,5 +82,30 @@ license_link: https://github.com/ColeTownsend/Balzac-for-Jekyll/blob/master/LICE
 Source: [jekyllthemes/_posts](https://github.com/mattvh/jekyllthemes/tree/master/_posts)
 
 
-## Others ???
+### Others ???
+
+
+
+## More Theme Directories
+
+**Dynamic Sites**
+
+- WordPress.org <https://wordpress.org/themes> - sort by: features, popular, latest + feature filter
+- WordPress.com <https://theme.wordpress.com> - sort by: trending, a-z, newest, popular, free, premium
+
+
+**Static Sites**
+
+- Hexo <https://hexo.io/themes> - Static Site Generator in JavaScript
+
+- Middleman <https://directory.middlemanapp.com> - Static Site Generator in Ruby
+
+  tags include: scss, sass, etc.
+
+- Hugo <http://gohugo.io/showcase> - Static Site Generator in Go
+
+
+**Others**
+
+- Atom Editor <https://atom.io/themes>
 
