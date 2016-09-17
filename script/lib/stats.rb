@@ -37,6 +37,7 @@ class GithubRepoStats
   def full_name() @data['full_name']; end
 
 
+
   def fetch( gh )   ## update stats / fetch data from github via api
     puts "fetching #{full_name}..."
     repo    = gh.repo( full_name )
@@ -98,26 +99,3 @@ class GithubRepoStats
   end
 
 end # class GithubRepoStats
-
-
-
-## for testing if called via script/stats.rb
-##
-if __FILE__ == $0
-
-themes = [
-  'henrythemes/jekyll-starter-theme',
-  'poole/hyde',
-  'jekyll/minima'
-]
-
-gh = Hubba::Github.new( cache_dir: './cache' )
-
-themes.each do |theme|
-  stats = GithubRepoStats.new( theme )
-  stats.read( data_dir: './data' )
-  stats.fetch( gh )
-  stats.write( data_dir: './data' )
-end
-
-end
