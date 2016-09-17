@@ -1,0 +1,18 @@
+{
+  "full_name": "y7kim/agency-jekyll-theme",
+  "created_at": "2014-08-20T19:54:22Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 329
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-05T23:05:02Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #41 from rodrigograca31/patch-1\n\nShow current year"
+    }
+  ]
+}

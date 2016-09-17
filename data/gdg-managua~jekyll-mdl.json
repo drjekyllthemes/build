@@ -1,0 +1,18 @@
+{
+  "full_name": "gdg-managua/jekyll-mdl",
+  "created_at": "2015-07-11T17:08:43Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 141
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-03-21T20:37:01Z",
+        "name": "Oscar Cortez"
+      },
+      "message": "Merge pull request #41 from xrd/master\n\nAdd webiphany.com"
+    }
+  ]
+}

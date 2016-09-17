@@ -1,0 +1,18 @@
+{
+  "full_name": "thephuse/strange_case",
+  "created_at": "2014-01-07T18:39:42Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 43
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-12-12T14:46:33Z",
+        "name": "Kelley Gibson"
+      },
+      "message": "Update home icon"
+    }
+  ]
+}

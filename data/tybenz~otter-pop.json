@@ -1,0 +1,18 @@
+{
+  "full_name": "tybenz/otter-pop",
+  "created_at": "2014-05-10T16:43:23Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 15
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-09-03T15:35:19Z",
+        "name": "Tyler Benziger"
+      },
+      "message": "Merge branch 'gh-pages' of github.com:tybenz/otter-pop into gh-pages"
+    }
+  ]
+}

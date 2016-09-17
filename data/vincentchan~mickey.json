@@ -1,0 +1,18 @@
+{
+  "full_name": "vincentchan/mickey",
+  "created_at": "2015-07-24T04:55:37Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 187
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-10-02T07:09:25Z",
+        "name": "Vincent Chan"
+      },
+      "message": "Merge pull request #6 from johnwook/master\n\nDependency update & Replace gulp-ruby-sass with gulp-sass"
+    }
+  ]
+}

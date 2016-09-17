@@ -1,0 +1,18 @@
+{
+  "full_name": "clayh53/tufte-jekyll",
+  "created_at": "2015-02-20T21:51:52Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 155
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-06-02T20:21:20Z",
+        "name": "clayh53"
+      },
+      "message": "added ol to basic layout"
+    }
+  ]
+}

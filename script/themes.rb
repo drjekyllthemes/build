@@ -63,8 +63,13 @@ class Themes
       if github
         stats = GithubRepoStats.new( github )
         stats.read( data_dir: data_dir )
-        ## stats.fetch( gh )
-        ## stats.write( data_dir: data_dir )
+        stats.fetch( gh )
+##
+##  todo:
+##  check for status 301 e.g.
+## "status => 301 Moved Permanently"
+
+        stats.write( data_dir: data_dir )
       end
     end
   end  # update_stats

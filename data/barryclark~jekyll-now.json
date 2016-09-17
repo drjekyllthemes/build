@@ -1,0 +1,18 @@
+{
+  "full_name": "barryclark/jekyll-now",
+  "created_at": "2014-02-07T00:14:55Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 2905
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-06-08T19:03:46Z",
+        "name": "Erin Grand"
+      },
+      "message": "Update _svg-icons.scss"
+    }
+  ]
+}

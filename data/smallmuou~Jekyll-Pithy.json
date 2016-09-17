@@ -1,0 +1,18 @@
+{
+  "full_name": "smallmuou/Jekyll-Pithy",
+  "created_at": "2015-04-10T01:45:07Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 44
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-08-18T05:38:51Z",
+        "name": "Pawpaw"
+      },
+      "message": "Merge pull request #2 from Oxyrus/patch-1\n\nFix Twitter link"
+    }
+  ]
+}

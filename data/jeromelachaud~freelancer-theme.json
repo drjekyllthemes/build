@@ -1,0 +1,18 @@
+{
+  "full_name": "jeromelachaud/freelancer-theme",
+  "created_at": "2014-07-19T15:13:08Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 511
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-06-08T10:34:00Z",
+        "name": "Jerome Lachaud"
+      },
+      "message": "Merge pull request #45 from tokelove/patch-2\n\nFixed typo in README.md"
+    }
+  ]
+}

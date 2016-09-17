@@ -1,0 +1,18 @@
+{
+  "full_name": "chibicode/solo",
+  "created_at": "2014-01-25T00:53:09Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 233
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-01-26T21:53:13Z",
+        "name": "Shu Uesugi"
+      },
+      "message": "Merge pull request #18 from davisonio/fix-loading\n\nFix loading of main.css and fix mix content warnings"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "full_name": "mx3m/hikari-for-Jekyll",
+  "created_at": "2014-02-01T08:30:55Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 151
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-09-09T04:14:28Z",
+        "name": "Mathieu Mayer-Mazzoli"
+      },
+      "message": "changed config.yml to reflect repo's name changes"
+    }
+  ]
+}

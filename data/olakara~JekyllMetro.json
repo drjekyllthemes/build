@@ -1,0 +1,18 @@
+{
+  "full_name": "olakara/JekyllMetro",
+  "created_at": "2014-06-17T14:07:26Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 33
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-05-15T03:44:37Z",
+        "name": "Abdel Raoof"
+      },
+      "message": "Merge pull request #43 from hackerkid/patch-1\n\nadd .jekyll-metadata"
+    }
+  ]
+}

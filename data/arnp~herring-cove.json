@@ -1,0 +1,18 @@
+{
+  "full_name": "arnp/herring-cove",
+  "created_at": "2013-12-16T04:50:44Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 88
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-11-19T21:12:52Z",
+        "name": "Ravi Patel (Robins)"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

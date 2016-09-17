@@ -1,0 +1,18 @@
+{
+  "full_name": "scotte/jekyll-clean",
+  "created_at": "2014-08-22T22:48:36Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 92
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-07-27T21:45:56Z",
+        "name": "Scott Emmons"
+      },
+      "message": "Fix gh-pages documentation"
+    }
+  ]
+}

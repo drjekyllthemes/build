@@ -1,0 +1,18 @@
+{
+  "full_name": "niklasbuschmann/contrast",
+  "created_at": "2015-01-30T20:06:37Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 31
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-22T10:57:03Z",
+        "name": "GitHub"
+      },
+      "message": "avoid extra '•'"
+    }
+  ]
+}

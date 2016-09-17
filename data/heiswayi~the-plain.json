@@ -1,0 +1,18 @@
+{
+  "full_name": "heiswayi/the-plain",
+  "created_at": "2015-09-08T16:09:41Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 110
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-17T01:46:10Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #14 from llwu/fix-logo-prompt-alignment\n\nFix vertical alignment of logo prompt (Issue #3)"
+    }
+  ]
+}

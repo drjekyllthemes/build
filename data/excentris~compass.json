@@ -1,0 +1,18 @@
+{
+  "full_name": "excentris/compass",
+  "created_at": "2015-01-03T21:56:41Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 62
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-02-17T07:34:01Z",
+        "name": "Eduardo Rubio"
+      },
+      "message": "Merge pull request #2 from claman/fix-relative-permalinks\n\nFix relative permalinks and syntax highlighting"
+    }
+  ]
+}

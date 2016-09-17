@@ -1,0 +1,18 @@
+{
+  "full_name": "brianmaierjr/long-haul",
+  "created_at": "2014-12-14T08:41:52Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 198
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-05T05:33:49Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #37 from aochuih/master\n\nAdd a Gemfile"
+    }
+  ]
+}

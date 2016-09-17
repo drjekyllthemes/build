@@ -1,0 +1,18 @@
+{
+  "full_name": "alixedi/typewriter",
+  "created_at": "2014-06-05T18:19:20Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 28
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-06-09T11:39:20Z",
+        "name": "Ali Zaidi"
+      },
+      "message": "Better vertical rhythym"
+    }
+  ]
+}

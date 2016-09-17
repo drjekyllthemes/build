@@ -1,0 +1,18 @@
+{
+  "full_name": "kronik3r/daktilo",
+  "created_at": "2015-09-08T04:32:39Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 109
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-03-01T10:37:42Z",
+        "name": "Motaquillah Maddane"
+      },
+      "message": "Fix #18 - Remove confusion about disqus username"
+    }
+  ]
+}

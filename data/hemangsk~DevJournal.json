@@ -1,0 +1,18 @@
+{
+  "full_name": "hemangsk/DevJournal",
+  "created_at": "2016-05-13T08:22:12Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 30
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-07-14T12:11:14Z",
+        "name": "Hemang Kumar"
+      },
+      "message": "navbar bug fix"
+    }
+  ]
+}

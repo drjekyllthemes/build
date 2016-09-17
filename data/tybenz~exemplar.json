@@ -1,0 +1,18 @@
+{
+  "full_name": "tybenz/exemplar",
+  "created_at": "2013-02-20T21:38:22Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 46
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-09T16:03:22Z",
+        "name": "Tyler Benziger"
+      },
+      "message": "Remove CNAME"
+    }
+  ]
+}

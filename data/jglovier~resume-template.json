@@ -1,0 +1,18 @@
+{
+  "full_name": "jglovier/resume-template",
+  "created_at": "2015-07-18T12:59:13Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 294
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-01T12:41:21Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #16 from jmks/update-education-schema\n\nChanged CollegeOrUniversity item prop from worksFor to alumniOf"
+    }
+  ]
+}

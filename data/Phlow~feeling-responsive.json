@@ -1,0 +1,18 @@
+{
+  "full_name": "Phlow/feeling-responsive",
+  "created_at": "2014-08-17T10:32:01Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 269
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-16T13:12:21Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #105 from teschi/jekyll3_layout_metadata_change\n\nfixed page-format according to jekyll3 change"
+    }
+  ]
+}

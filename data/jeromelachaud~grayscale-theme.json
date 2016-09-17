@@ -1,0 +1,18 @@
+{
+  "full_name": "jeromelachaud/grayscale-theme",
+  "created_at": "2015-02-02T14:45:08Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 126
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-05-27T10:16:21Z",
+        "name": "Jerome Lachaud"
+      },
+      "message": "Merge pull request #11 from kylesferrazza/patch-3\n\nTitle and Description from config"
+    }
+  ]
+}

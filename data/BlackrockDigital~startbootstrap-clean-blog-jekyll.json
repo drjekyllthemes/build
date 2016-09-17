@@ -1,0 +1,18 @@
+{
+  "full_name": "BlackrockDigital/startbootstrap-clean-blog-jekyll",
+  "created_at": "2014-09-27T08:05:10Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 667
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-19T01:23:52Z",
+        "name": "David Miller"
+      },
+      "message": "minor text change to config"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "full_name": "ellekasai/shiori",
+  "created_at": "2014-09-07T05:49:29Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 232
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-09-12T22:07:19Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #14 from anthonyfok/fix-typo-and-permission\n\nFix minor typo; change file permission to 0644"
+    }
+  ]
+}

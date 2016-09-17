@@ -1,0 +1,18 @@
+{
+  "full_name": "diezcami/polar-bear-theme",
+  "created_at": "2015-05-25T11:00:22Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 28
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-04-21T06:50:25Z",
+        "name": "Camille Diez"
+      },
+      "message": "Merge pull request #3 from djds23/master\n\nAdd Gemfile"
+    }
+  ]
+}

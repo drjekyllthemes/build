@@ -1,0 +1,18 @@
+{
+  "full_name": "coletownsend/balzac-for-jekyll",
+  "created_at": "2013-08-02T12:31:24Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 314
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-12-11T04:09:53Z",
+        "name": "Cole Townsend"
+      },
+      "message": "Merge pull request #25 from kzurell/opengraph\n\nMoved graph(s) into separate file."
+    }
+  ]
+}

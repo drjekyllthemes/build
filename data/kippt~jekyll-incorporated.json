@@ -1,0 +1,18 @@
+{
+  "full_name": "kippt/jekyll-incorporated",
+  "created_at": "2013-10-09T21:57:31Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 990
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-02-26T00:01:30Z",
+        "name": "Karri Saarinen"
+      },
+      "message": "Update README.md"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "full_name": "streetturtle/jekyll-clean-dark",
+  "created_at": "2015-06-29T22:56:56Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 45
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-09-14T03:34:32Z",
+        "name": "streetturtle"
+      },
+      "message": "accidently commited wrong file, revert + file"
+    }
+  ]
+}

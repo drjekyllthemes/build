@@ -1,0 +1,18 @@
+{
+  "full_name": "pietromenna/jekyll-architect-theme",
+  "created_at": "2014-04-06T18:05:02Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 45
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-21T12:45:17Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #12 from JackaThompson/docs\n\nImproved Documentation"
+    }
+  ]
+}

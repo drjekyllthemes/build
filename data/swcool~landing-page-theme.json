@@ -1,0 +1,18 @@
+{
+  "full_name": "swcool/landing-page-theme",
+  "created_at": "2014-10-04T15:07:16Z",
+  "history": {
+    "2016-09-17": {
+      "stargazers_count": 168
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-11-02T17:04:42Z",
+        "name": "Shane Weng"
+      },
+      "message": "Merge pull request #12 from ssokurenko/master\n\nMoved copyright and credits strings to the config."
+    }
+  ]
+}
