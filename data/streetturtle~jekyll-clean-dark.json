@@ -7,15 +7,18 @@
     },
     "2016-09-18": {
       "stargazers_count": 45
+    },
+    "2016-09-21": {
+      "stargazers_count": 46
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-14T03:34:32Z",
+        "date": "2016-09-20T01:56:37Z",
         "name": "streetturtle"
       },
-      "message": "accidently commited wrong file, revert + file"
+      "message": "Add accent color preview"
     }
   ]
 }

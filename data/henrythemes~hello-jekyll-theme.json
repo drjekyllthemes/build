@@ -1,0 +1,18 @@
+{
+  "full_name": "henrythemes/hello-jekyll-theme",
+  "created_at": "2016-09-19T18:45:34Z",
+  "history": {
+    "2016-09-21": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-09-19T20:30:57Z",
+        "name": "GitHub"
+      },
+      "message": "Update _config.yml"
+    }
+  ]
+}

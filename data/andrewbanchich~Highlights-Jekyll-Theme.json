@@ -1,0 +1,18 @@
+{
+  "full_name": "andrewbanchich/Highlights-Jekyll-Theme",
+  "created_at": "2016-07-17T19:09:41Z",
+  "history": {
+    "2016-09-21": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-29T03:38:45Z",
+        "name": "Andrew Banchich"
+      },
+      "message": "Update main.scss"
+    }
+  ]
+}

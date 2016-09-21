@@ -7,15 +7,18 @@
     },
     "2016-09-18": {
       "stargazers_count": 5
+    },
+    "2016-09-21": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-01T14:15:02Z",
-        "name": "ferrolho"
+        "date": "2016-09-18T13:04:25Z",
+        "name": "GitHub"
       },
-      "message": "Fixes config"
+      "message": "Create LICENSE"
     }
   ]
 }

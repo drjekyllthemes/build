@@ -7,15 +7,18 @@
     },
     "2016-09-18": {
       "stargazers_count": 269
+    },
+    "2016-09-21": {
+      "stargazers_count": 269
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-16T13:12:21Z",
+        "date": "2016-09-20T14:44:44Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #105 from teschi/jekyll3_layout_metadata_change\n\nfixed page-format according to jekyll3 change"
+      "message": "Merge pull request #113 from TWiStErRob/syntax-fixes\n\nFix Liquid syntax errors"
     }
   ]
 }

@@ -7,15 +7,18 @@
     },
     "2016-09-18": {
       "stargazers_count": 0
+    },
+    "2016-09-21": {
+      "stargazers_count": 2
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-09T20:45:45Z",
+        "date": "2016-09-18T17:39:30Z",
         "name": "Sergey Sokurenko"
       },
-      "message": "Added Google Analitycs"
+      "message": "Added theme design link."
     }
   ]
 }
