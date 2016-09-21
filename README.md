@@ -55,7 +55,7 @@ For more docu see the Git Book V2 chapter titled
 Set your GitHub env credentials e.g.
 
 ```
-set HUBBA_LOGIN=you
+set HUBBA_USER=you
 set HUBBA_PASSWORD=topsecret
 ```
 
