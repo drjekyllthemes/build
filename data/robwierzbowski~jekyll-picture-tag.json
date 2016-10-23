@@ -1,0 +1,18 @@
+{
+  "full_name": "robwierzbowski/jekyll-picture-tag",
+  "created_at": "2013-06-24T21:56:19Z",
+  "history": {
+    "2016-10-23": {
+      "stargazers_count": 321
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2015-10-30T03:12:48Z",
+        "name": "Brendan Tobolaski"
+      },
+      "message": "Bump version number to 0.3.0"
+    }
+  ]
+}

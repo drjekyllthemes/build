@@ -5,6 +5,8 @@
 
 require 'pp'
 require 'yaml'
+require 'uri'
+
 
 
 
@@ -34,10 +36,11 @@ STARS_RX = /★[ ]*(?<stars>[0-9]+)[ ]+/
 
 plugins = []
 last_category = ''
+last_subcategory = ''
 
 
 lineno = 0
-File.open( "plugins.md", 'r:utf-8' ).each_line do |line|
+File.open( "../../planetjekyll/awesome-jekyll-plugins/README.md", 'r:utf-8' ).each_line do |line|
   lineno += 1
   line = line.chomp  # remove trailng newline
 
@@ -51,7 +54,14 @@ File.open( "plugins.md", 'r:utf-8' ).each_line do |line|
     if m[:num].length == 2
       puts "   *** bingo: setting category to >>#{m[:text]}<<"
       last_category = m[:text]
+      last_subcategory = ''    # reset subcategory
+    elsif m[:num].length == 3
+      puts "   *** bingo: setting subcategory to >>#{m[:text]}<<"
+      last_subcategory = m[:text]
+    else
+        ## do nothing
     end
+
   elsif m=SECTION_RX.match( line )
     puts "*** matching section e.g. bold line -- >>#{m[:text]}<<"
   elsif m=ITEM_RX.match( line )
@@ -63,8 +73,13 @@ File.open( "plugins.md", 'r:utf-8' ).each_line do |line|
       plugin = {
         'gem'      => m[:name],
         'gem_url'  => m[:link],
-        'category' => last_category
       }
+
+      if last_subcategory.length > 0  ## if not blank (e.g. present) -- add subcategory
+        plugin[ 'category' ] = "#{last_category} › #{last_subcategory}"
+      else
+        plugin[ 'category' ] = last_category
+      end
 
       if m=PROJECT_LINK_RX.match( item )
         puts "   *** project >>#{m[:name]}<< - >>#{m[:link]}<<"
@@ -91,8 +106,27 @@ File.open( "plugins.md", 'r:utf-8' ).each_line do |line|
 end
 
 
+##
+##  try to add github handle from project_url
+
+plugins.each do |plugin|
+  project_url_str = plugin['project_url']
+  if project_url_str
+    project_url = URI.parse( project_url_str )
+    if project_url.host == 'github.com'
+       plugin['github'] = project_url.path[1..-1]   # note: cut-off leading slash (e.g. /)
+       puts "adding github shortcut >#{plugin['github']}<"
+    else
+       puts "!!! *** no github shortcut found for >#{project_url_str}<"
+    end
+  else
+    puts "!!! *** project_url missing for >#{plugin.inspect}<"
+  end
+end
+
+
 ## pp plugins
 
-File.open( "plugins.yml", 'w:utf-8' ) do |f|
+File.open( "o/plugins.yml", 'w:utf-8' ) do |f|
   f.write YAML.dump( plugins )   ## it's an array
 end

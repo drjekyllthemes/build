@@ -80,7 +80,7 @@ class GithubRepoStats
   def write( data_dir: './data' )
     basename = full_name.gsub( '/', '~' )   ## e.g. poole/hyde become poole~hyde
     puts "writing (saving) to #{basename}..."
-    File.open( "#{data_dir}/#{basename}.json", "w" ) do |f|
+    File.open( "#{data_dir}/#{basename}.json", 'w:utf-8' ) do |f|
         f.write JSON.pretty_generate( data )
     end
   end
@@ -91,7 +91,7 @@ class GithubRepoStats
     filename = "#{data_dir}/#{basename}.json"
     if File.exist?( filename )
       puts "reading (loading) from #{basename}..."
-      json = File.read( filename )    ## todo/fix: use read_utf8
+      json = File.open( filename, 'r:utf-8' ) { |file| file.read }   ## todo/fix: use read_utf8
       @data = JSON.parse( json )
     else
       puts "skipping reading (loading) from #{basename} -- file not found"

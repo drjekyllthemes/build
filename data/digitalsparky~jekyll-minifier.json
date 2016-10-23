@@ -1,0 +1,18 @@
+{
+  "full_name": "digitalsparky/jekyll-minifier",
+  "created_at": "2015-01-08T11:37:22Z",
+  "history": {
+    "2016-10-23": {
+      "stargazers_count": 42
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-08-09T10:44:29Z",
+        "name": "Matthew Spurrier"
+      },
+      "message": "Bump version"
+    }
+  ]
+}

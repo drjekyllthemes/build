@@ -1,0 +1,18 @@
+{
+  "full_name": "jekyll/jekyll-opal",
+  "created_at": "2014-06-16T04:09:23Z",
+  "history": {
+    "2016-10-23": {
+      "stargazers_count": 16
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-06-13T21:12:31Z",
+        "name": "Parker Moore"
+      },
+      "message": "release :gem: v0.3.0"
+    }
+  ]
+}

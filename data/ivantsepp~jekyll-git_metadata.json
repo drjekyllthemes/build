@@ -1,0 +1,18 @@
+{
+  "full_name": "ivantsepp/jekyll-git_metadata",
+  "created_at": "2014-06-20T13:39:02Z",
+  "history": {
+    "2016-10-23": {
+      "stargazers_count": 30
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2014-10-18T18:51:34Z",
+        "name": "Ivan Tse"
+      },
+      "message": "Merge pull request #2 from arandaio/master\n\nFix gem name in readme"
+    }
+  ]
+}

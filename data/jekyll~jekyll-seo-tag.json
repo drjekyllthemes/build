@@ -1,0 +1,18 @@
+{
+  "full_name": "jekyll/jekyll-seo-tag",
+  "created_at": "2015-10-25T21:45:01Z",
+  "history": {
+    "2016-10-23": {
+      "stargazers_count": 285
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-10-23T16:18:23Z",
+        "name": "jekyllbot"
+      },
+      "message": "Update history to reflect merge of #132 [ci skip]"
+    }
+  ]
+}

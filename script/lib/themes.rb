@@ -13,7 +13,7 @@ require_relative 'stats'
 class Themes
 
   def self.from_file( path )
-    text = File.read( path )
+    text = File.open( path, 'r:utf-8' ) { |file| file.read }
     self.new( text )
   end
 
