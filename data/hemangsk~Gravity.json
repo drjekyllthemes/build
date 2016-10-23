@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 90
+    },
+    "2016-10-23": {
+      "stargazers_count": 101
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-14T10:15:00Z",
+        "date": "2016-10-20T19:21:26Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #6 from mrshannonyoung/patch-1\n\nMake one call to Google Fonts API | Reduce HTTP requests"
+      "message": "Merge pull request #21 from mgmacias95/patch-1\n\ncorrect liquid syntax error"
     }
   ]
 }

@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 1
+    },
+    "2016-10-23": {
+      "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-08T13:33:51Z",
-        "name": "dkbm"
+        "date": "2016-10-13T09:09:27Z",
+        "name": "GitHub"
       },
-      "message": "Fixing ref."
+      "message": "Merge pull request #1 from NUNTS/patch-1\n\nUpdate _config.yml"
     }
   ]
 }

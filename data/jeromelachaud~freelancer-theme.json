@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 513
+    },
+    "2016-10-23": {
+      "stargazers_count": 541
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-08T10:34:00Z",
-        "name": "Jerome Lachaud"
+        "date": "2016-10-03T20:53:42Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #45 from tokelove/patch-2\n\nFixed typo in README.md"
+      "message": "Merge pull request #49 from ASPePeX/master\n\nThe URL on startbootstrap.com changed"
     }
   ]
 }

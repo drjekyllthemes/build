@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 9
+    },
+    "2016-10-23": {
+      "stargazers_count": 11
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-23T15:39:32Z",
+        "date": "2016-10-22T07:35:33Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #5 from Troy-Yang/patch-1\n\nAdd redcarpet gem"
+      "message": "Delete 2016-10-22-the-post-9465.md"
     }
   ]
 }

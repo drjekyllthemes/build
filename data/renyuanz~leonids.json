@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 142
+    },
+    "2016-10-23": {
+      "stargazers_count": 164
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-05T08:01:04Z",
+        "date": "2016-10-03T09:22:36Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #26 from steinwaywhw/master\n\nAdd 500px to social-links"
+      "message": "Merge pull request #29 from antoniocoratelli/patch-1\n\nFix whitespace in 'feed.xml' link"
     }
   ]
 }

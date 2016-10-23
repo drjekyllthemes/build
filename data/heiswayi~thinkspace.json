@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 45
+    },
+    "2016-10-23": {
+      "stargazers_count": 50
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-07T01:17:53Z",
-        "name": "GitHub"
+        "date": "2016-10-16T10:50:16Z",
+        "name": "Heiswayi Nrird"
       },
-      "message": "Merge pull request #4 from d1str0/patch-1\n\nTypo fix and grammar change."
+      "message": "Update to version 2 screenshot"
     }
   ]
 }

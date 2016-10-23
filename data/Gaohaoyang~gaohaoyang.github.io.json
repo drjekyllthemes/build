@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 513
+    },
+    "2016-10-23": {
+      "stargazers_count": 544
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-08T05:38:43Z",
-        "name": "GitHub"
+        "date": "2016-10-18T04:10:12Z",
+        "name": "chuan shi(haoyang gao)"
       },
-      "message": "Merge pull request #40 from cmungall/patch-1\n\nFix to allow working with site.baseurl"
+      "message": "update collection"
     }
   ]
 }

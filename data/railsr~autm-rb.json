@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 47
+    },
+    "2016-10-23": {
+      "stargazers_count": 49
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-04-28T18:29:40Z",
+        "date": "2016-10-19T12:57:54Z",
         "name": "railsr"
       },
-      "message": "fonts"
+      "message": "edits"
     }
   ]
 }

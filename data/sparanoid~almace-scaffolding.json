@@ -10,15 +10,18 @@
     },
     "2016-09-21": {
       "stargazers_count": 101
+    },
+    "2016-10-23": {
+      "stargazers_count": 103
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-20T09:15:39Z",
+        "date": "2016-10-21T07:34:15Z",
         "name": "Tunghsiao Liu"
       },
-      "message": "fix(post): typo"
+      "message": "fix(grunt): external `.uncssrc` causes unexpected result when `raw` is empty"
     }
   ]
 }
