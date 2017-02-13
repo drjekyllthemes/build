@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 111
+    },
+    "2017-02-13": {
+      "stargazers_count": 123
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-19T21:20:25Z",
+        "date": "2017-01-06T16:49:17Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #37 from Huddo121/feature/hacker_news_share_button\n\nAdd Hacker News as a share option."
+      "message": "Merge pull request #40 from falexandrou/master\n\nupdate & fix highlight.js"
     }
   ]
 }

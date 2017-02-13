@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 145
+    },
+    "2017-02-13": {
+      "stargazers_count": 157
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-03-21T20:37:01Z",
-        "name": "Oscar Cortez"
+        "date": "2017-01-03T16:08:20Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #41 from xrd/master\n\nAdd webiphany.com"
+      "message": "Merge pull request #48 from Sparker0i/patch-1\n\nAdd sparker0i.github.io to main repo"
     }
   ]
 }

@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 35
+    },
+    "2017-02-13": {
+      "stargazers_count": 50
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-15T01:42:42Z",
-        "name": "Anna Prigkipaki"
+        "date": "2017-02-04T23:19:06Z",
+        "name": "GitHub"
       },
-      "message": "REVISED TEMPLATE"
+      "message": "Version 2.0 released"
     }
   ]
 }

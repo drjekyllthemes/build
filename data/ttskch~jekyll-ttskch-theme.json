@@ -4,15 +4,18 @@
   "history": {
     "2016-10-23": {
       "stargazers_count": 14
+    },
+    "2017-02-13": {
+      "stargazers_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-14T03:20:36Z",
+        "date": "2017-02-10T05:14:56Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #26 from ggarnier/master\n\nAdd my blog to users list"
+      "message": "Merge pull request #29 from ggarnier/master\n\nChange recent posts header tag to h2"
     }
   ]
 }

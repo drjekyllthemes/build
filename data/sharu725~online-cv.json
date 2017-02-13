@@ -4,15 +4,18 @@
   "history": {
     "2016-10-23": {
       "stargazers_count": 17
+    },
+    "2017-02-13": {
+      "stargazers_count": 92
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-29T05:16:39Z",
-        "name": "RedGadgets"
+        "date": "2016-12-28T13:41:44Z",
+        "name": "GitHub"
       },
-      "message": "no message"
+      "message": "Merge pull request #11 from rajanand/patch-1\n\nUpdate linkedin url format."
     }
   ]
 }

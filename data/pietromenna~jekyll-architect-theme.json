@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 45
+    },
+    "2017-02-13": {
+      "stargazers_count": 48
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-21T12:45:17Z",
+        "date": "2016-12-13T16:02:46Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #12 from JackaThompson/docs\n\nImproved Documentation"
+      "message": "Removed author and link"
     }
   ]
 }

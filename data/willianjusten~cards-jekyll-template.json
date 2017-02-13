@@ -4,15 +4,18 @@
   "history": {
     "2016-10-23": {
       "stargazers_count": 106
+    },
+    "2017-02-13": {
+      "stargazers_count": 126
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-13T18:34:56Z",
+        "date": "2017-01-23T14:44:54Z",
         "name": "Willian Justen"
       },
-      "message": "Edit github link to get color theme"
+      "message": "Add minimist as deppendency"
     }
   ]
 }

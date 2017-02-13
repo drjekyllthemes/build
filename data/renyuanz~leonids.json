@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 164
+    },
+    "2017-02-13": {
+      "stargazers_count": 203
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-03T09:22:36Z",
+        "date": "2017-01-18T01:12:38Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #29 from antoniocoratelli/patch-1\n\nFix whitespace in 'feed.xml' link"
+      "message": "Merge pull request #39 from warden/pr-readme-docker\n\nAdd docker info to README"
     }
   ]
 }

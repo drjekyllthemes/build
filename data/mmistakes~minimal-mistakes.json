@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 1362
+    },
+    "2017-02-13": {
+      "stargazers_count": 1686
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-17T16:21:04Z",
+        "date": "2017-01-24T15:57:24Z",
         "name": "Michael Rose"
       },
-      "message": "Fix typo and update link to beta release post"
+      "message": "Merge branch 'release/4.2.1'"
     }
   ]
 }

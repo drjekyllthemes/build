@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 125
+    },
+    "2017-02-13": {
+      "stargazers_count": 141
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-01T08:22:15Z",
+        "date": "2016-12-04T10:21:00Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #70 from mrdaveanderson/gh-pages\n\npr to enable https serving on github"
+      "message": "Merge pull request #77 from brianbunke/gh-pages\n\nBump Font Awesome version to 4.7.0"
     }
   ]
 }

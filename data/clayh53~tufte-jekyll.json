@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 162
+    },
+    "2017-02-13": {
+      "stargazers_count": 186
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-02T20:21:20Z",
+        "date": "2016-12-19T18:44:53Z",
         "name": "clayh53"
       },
-      "message": "added ol to basic layout"
+      "message": "changed font names to conform to tufte-css naming convention was: ETBembo now: ETbook"
     }
   ]
 }

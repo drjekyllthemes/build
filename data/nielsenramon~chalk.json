@@ -1,0 +1,18 @@
+{
+  "full_name": "nielsenramon/chalk",
+  "created_at": "2016-07-26T20:59:57Z",
+  "history": {
+    "2017-02-13": {
+      "stargazers_count": 205
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-01-16T09:05:10Z",
+        "name": "Nielsen Ramon"
+      },
+      "message": "nr-update-ruby | Update ruby to 2.4.0, fix #38"
+    }
+  ]
+}

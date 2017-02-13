@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 311
+    },
+    "2017-02-13": {
+      "stargazers_count": 328
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-09-21T23:16:05Z",
-        "name": "Matt Swanson"
+        "date": "2016-11-13T06:39:29Z",
+        "name": "GitHub"
       },
-      "message": "Resolve merge conflict"
+      "message": "Merge pull request #35 from vitogit/upstream\n\nFix css issue on github hosting"
     }
   ]
 }

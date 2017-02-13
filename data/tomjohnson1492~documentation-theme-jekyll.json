@@ -10,15 +10,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 314
+    },
+    "2017-02-13": {
+      "stargazers_count": 388
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-08T02:12:59Z",
+        "date": "2017-02-10T22:24:00Z",
         "name": "tomjohnson1492"
       },
-      "message": "content update"
+      "message": "fixed content api tooltips demo"
     }
   ]
 }

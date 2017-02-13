@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 290
+    },
+    "2017-02-13": {
+      "stargazers_count": 347
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-12T15:53:41Z",
-        "name": "GitHub"
+        "date": "2017-01-28T15:24:14Z",
+        "name": "Panos Sakkos"
       },
-      "message": "Update latest-post.html"
+      "message": "Modifying warning due to 404 extension (#202)\n\nThanks @djcaesar9114 👏"
     }
   ]
 }

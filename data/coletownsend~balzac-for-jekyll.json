@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 317
+    },
+    "2017-02-13": {
+      "stargazers_count": 342
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-12-11T04:09:53Z",
+        "date": "2016-10-29T13:12:07Z",
         "name": "Cole Townsend"
       },
-      "message": "Merge pull request #25 from kzurell/opengraph\n\nMoved graph(s) into separate file."
+      "message": "Style footnotes and tables (#30)\n\nNormalize.scss removes superscript from footnote markers. Make footnote markers small & superscript.\r\n\r\nTables are not styled at all; add some styling to make tables look better."
     }
   ]
 }

@@ -7,15 +7,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 1
+    },
+    "2017-02-13": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-29T00:20:11Z",
+        "date": "2017-02-05T20:45:38Z",
         "name": "Andrew Banchich"
       },
-      "message": "Update README.md"
+      "message": "path fixes"
     }
   ]
 }

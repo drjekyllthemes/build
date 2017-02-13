@@ -7,15 +7,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 13
+    },
+    "2017-02-13": {
+      "stargazers_count": 70
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-29T20:07:21Z",
+        "date": "2017-02-11T03:38:31Z",
         "name": "Andrew Banchich"
       },
-      "message": "Update post.html"
+      "message": "Update .gitlab-ci.yml"
     }
   ]
 }

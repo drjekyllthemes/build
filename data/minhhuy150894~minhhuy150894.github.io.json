@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 14
+    },
+    "2017-02-13": {
+      "stargazers_count": 15
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-07T04:20:44Z",
+        "date": "2017-01-30T11:11:46Z",
         "name": "GitHub"
       },
-      "message": "Update 2015-05-12-profile.md"
+      "message": "Update README.md"
     }
   ]
 }

@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 343
+    },
+    "2017-02-13": {
+      "stargazers_count": 374
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-05T23:05:02Z",
+        "date": "2017-01-19T19:14:19Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #41 from rodrigograca31/patch-1\n\nShow current year"
+      "message": "Merge pull request #56 from TT--/issue-51-navbar-shrink-sooner\n\nwhen scrolling down navbar shrinks sooner..."
     }
   ]
 }

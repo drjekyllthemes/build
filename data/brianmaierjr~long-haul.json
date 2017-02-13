@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 209
+    },
+    "2017-02-13": {
+      "stargazers_count": 239
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-05T05:33:49Z",
-        "name": "GitHub"
+        "date": "2017-02-07T02:46:27Z",
+        "name": "Brian Maier Jr"
       },
-      "message": "Merge pull request #37 from aochuih/master\n\nAdd a Gemfile"
+      "message": "messing with default sass functionality in jekyll"
     }
   ]
 }

@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 50
+    },
+    "2017-02-13": {
+      "stargazers_count": 75
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-16T10:50:16Z",
+        "date": "2017-02-04T15:36:07Z",
         "name": "Heiswayi Nrird"
       },
-      "message": "Update to version 2 screenshot"
+      "message": "Minor update"
     }
   ]
 }

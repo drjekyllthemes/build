@@ -4,13 +4,16 @@
   "history": {
     "2016-10-23": {
       "stargazers_count": 18
+    },
+    "2017-02-13": {
+      "stargazers_count": 19
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-02-01T20:08:39Z",
-        "name": "Ankan Biswas"
+        "date": "2016-11-03T20:50:47Z",
+        "name": "GitHub"
       },
       "message": "Update default.html"
     }

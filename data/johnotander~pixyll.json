@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 1151
+    },
+    "2017-02-13": {
+      "stargazers_count": 1270
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-24T17:00:31Z",
+        "date": "2017-01-23T15:29:36Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #296 from muodov/escape-disqus-title\n\nEscape post title when rendering disqus JS snippet"
+      "message": "Merge pull request #309 from Yinchie/master\n\nInvalid setting"
     }
   ]
 }

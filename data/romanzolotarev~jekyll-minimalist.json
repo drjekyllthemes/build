@@ -10,15 +10,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 2
+    },
+    "2017-02-13": {
+      "stargazers_count": 4
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-20T13:31:51Z",
+        "date": "2016-11-21T17:14:49Z",
         "name": "Roman Zolotarev"
       },
-      "message": "Update styles"
+      "message": "Add jekyll-livereload"
     }
   ]
 }

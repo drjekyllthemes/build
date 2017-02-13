@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 21
+    },
+    "2017-02-13": {
+      "stargazers_count": 22
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-05-27T02:16:08Z",
+        "date": "2016-11-26T16:06:10Z",
         "name": "Dragomir Yordanov"
       },
-      "message": "Merge pull request #4 from stephengroat/patch-2\n\nAllow fonts over HTTPS if using HSTS"
+      "message": "Configure sass pre-processor and adapt to new stylesheets"
     }
   ]
 }

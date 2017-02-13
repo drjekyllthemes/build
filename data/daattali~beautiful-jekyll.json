@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 391
+    },
+    "2017-02-13": {
+      "stargazers_count": 511
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-11T18:57:04Z",
-        "name": "GitHub"
+        "date": "2017-01-27T23:19:00Z",
+        "name": "Dean Attali"
       },
-      "message": "Update README.md"
+      "message": "Add Subresource Integrity (SRI) support (#164)"
     }
   ]
 }

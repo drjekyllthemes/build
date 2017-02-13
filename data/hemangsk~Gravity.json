@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 101
+    },
+    "2017-02-13": {
+      "stargazers_count": 142
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-20T19:21:26Z",
+        "date": "2017-01-17T18:17:46Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #21 from mgmacias95/patch-1\n\ncorrect liquid syntax error"
+      "message": "style.css: Align nav to center\n\nCloses #32"
     }
   ]
 }

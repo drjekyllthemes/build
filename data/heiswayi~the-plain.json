@@ -13,15 +13,18 @@
     },
     "2016-10-23": {
       "stargazers_count": 123
+    },
+    "2017-02-13": {
+      "stargazers_count": 155
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-19T15:16:10Z",
-        "name": "Heiswayi Nrird"
+        "date": "2017-02-04T15:48:38Z",
+        "name": "GitHub"
       },
-      "message": "Fix page navigation link"
+      "message": "Update _config.yml"
     }
   ]
 }
