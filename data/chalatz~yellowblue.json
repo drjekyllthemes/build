@@ -16,15 +16,18 @@
     },
     "2017-02-13": {
       "stargazers_count": 12
+    },
+    "2017-02-14": {
+      "stargazers_count": 12
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-10-16T21:12:08Z",
+        "date": "2017-01-12T12:09:24Z",
         "name": "chalatz"
       },
-      "message": "added license"
+      "message": "Added Jekyll 3 support"
     }
   ]
 }

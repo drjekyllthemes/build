@@ -1,0 +1,18 @@
+{
+  "full_name": "CloudCannon/cause-jekyll-template",
+  "created_at": "2016-11-16T01:59:02Z",
+  "history": {
+    "2017-02-14": {
+      "stargazers_count": 6
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2016-12-09T00:40:06Z",
+        "name": "Mike Neumegen"
+      },
+      "message": "Initial commit"
+    }
+  ]
+}
