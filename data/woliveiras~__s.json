@@ -10,15 +10,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 24
+    },
+    "2017-06-18": {
+      "stargazers_count": 32
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-28T10:52:51Z",
-        "name": "woliveiras"
+        "date": "2017-03-12T13:16:51Z",
+        "name": "GitHub"
       },
-      "message": "Add screenshot 250x200"
+      "message": "Merge pull request #9 from kvnol/patch\n\nAdd meta viewport"
     }
   ]
 }

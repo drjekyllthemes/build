@@ -4,15 +4,18 @@
   "history": {
     "2017-02-14": {
       "stargazers_count": 28
+    },
+    "2017-06-18": {
+      "stargazers_count": 90
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-30T20:37:53Z",
+        "date": "2017-05-24T16:56:18Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #8 from slowtick/analytics-upgrade\n\ngoogle analytics - changed ga.js to analytics.js"
+      "message": "Merge pull request #2 from sethjackson/fix-title\n\nFix default page titles."
     }
   ]
 }

@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 118
+    },
+    "2017-06-18": {
+      "stargazers_count": 129
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-11T13:05:45Z",
+        "date": "2017-06-06T06:45:42Z",
         "name": "Tunghsiao Liu"
       },
-      "message": "feat(grunt): add `html_trim` support"
+      "message": "docs(readme): add Greenkeeper badge"
     }
   ]
 }

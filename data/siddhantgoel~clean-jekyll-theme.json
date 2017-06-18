@@ -7,12 +7,15 @@
     },
     "2017-02-14": {
       "stargazers_count": 3
+    },
+    "2017-06-18": {
+      "stargazers_count": 5
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-04T13:37:40Z",
+        "date": "2017-05-19T07:57:19Z",
         "name": "Siddhant Goel"
       },
       "message": "bump version"

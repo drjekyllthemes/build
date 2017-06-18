@@ -1,0 +1,18 @@
+{
+  "full_name": "mmistakes/jekyll-theme-basically-basic",
+  "created_at": "2017-03-07T21:08:01Z",
+  "history": {
+    "2017-06-18": {
+      "stargazers_count": 60
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-03-31T12:15:24Z",
+        "name": "Michael Rose"
+      },
+      "message": "fixed typos (#17)\n\nwant you want --> what you want"
+    }
+  ]
+}

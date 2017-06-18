@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 270
+    },
+    "2017-06-18": {
+      "stargazers_count": 289
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-11-05T08:43:14Z",
-        "name": "Oliver Stapleton"
+        "date": "2017-02-21T14:38:04Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #23 from drkokandy/master\n\nRemoving tags from project.html layout and adding them to each post"
+      "message": "Added license declaration."
     }
   ]
 }

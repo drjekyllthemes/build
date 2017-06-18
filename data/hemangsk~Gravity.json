@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 142
+    },
+    "2017-06-18": {
+      "stargazers_count": 228
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-17T18:17:46Z",
+        "date": "2017-06-12T16:02:20Z",
         "name": "GitHub"
       },
-      "message": "style.css: Align nav to center\n\nCloses #32"
+      "message": "README.md: Add full size screenshot"
     }
   ]
 }

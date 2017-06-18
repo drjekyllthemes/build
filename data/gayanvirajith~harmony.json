@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 207
+    },
+    "2017-06-18": {
+      "stargazers_count": 224
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-04-05T11:02:26Z",
-        "name": "Gayan Virajith"
+        "date": "2017-06-07T06:47:58Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #18 from axhm3a/master\n\nfixed closing of wrong tag h4/h2 thanks to @axhm3a"
+      "message": "Merge pull request #24 from jonnydark/liquid-warning-fix\n\nRemove errant parenthesis to fix liquid syntax error thantks to @jonnydark"
     }
   ]
 }

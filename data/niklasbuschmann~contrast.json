@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 38
+    },
+    "2017-06-18": {
+      "stargazers_count": 41
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-12T10:56:57Z",
+        "date": "2017-05-21T10:55:45Z",
         "name": "GitHub"
       },
-      "message": "fix"
+      "message": "improve consistency"
     }
   ]
 }

@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 379
+    },
+    "2017-06-18": {
+      "stargazers_count": 515
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-12T20:00:27Z",
+        "date": "2017-05-21T15:33:33Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #212 from sergiokopplin/next\n\nmerge with next branch"
+      "message": "Merge pull request #234 from ravpacheco/gh-pages\n\nFix social link issue (#232) on mobile versions"
     }
   ]
 }

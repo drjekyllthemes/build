@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 85
+    },
+    "2017-06-18": {
+      "stargazers_count": 88
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-12T21:07:23Z",
+        "date": "2017-06-16T21:06:45Z",
         "name": "Aigars Dzerviniks"
       },
-      "message": "Adds Gemfile.lock to .gitignore"
+      "message": "Updates version number"
     }
   ]
 }

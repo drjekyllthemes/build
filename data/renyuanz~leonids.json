@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 204
+    },
+    "2017-06-18": {
+      "stargazers_count": 295
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-18T01:12:38Z",
+        "date": "2017-02-23T19:01:54Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #39 from warden/pr-readme-docker\n\nAdd docker info to README"
+      "message": "Merge pull request #41 from DracoBlue/patch-1\n\nUse after-elements instead of html for sidebar elements"
     }
   ]
 }

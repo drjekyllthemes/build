@@ -10,15 +10,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 15
+    },
+    "2017-06-18": {
+      "stargazers_count": 19
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-10T05:14:56Z",
+        "date": "2017-04-09T04:38:22Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #29 from ggarnier/master\n\nChange recent posts header tag to h2"
+      "message": "Merge pull request #34 from sasukeh/sasukeh-patch001\n\nadd my blog to your ring"
     }
   ]
 }

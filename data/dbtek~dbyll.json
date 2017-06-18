@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 362
+    },
+    "2017-06-18": {
+      "stargazers_count": 385
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-19T07:37:02Z",
-        "name": "İsmail Demirbilek"
+        "date": "2017-02-18T20:52:08Z",
+        "name": "GitHub"
       },
-      "message": "pygments to rogue #60"
+      "message": "Merge pull request #63 from casab/patch-1\n\nFixed small typo; wrong highlighter name"
     }
   ]
 }

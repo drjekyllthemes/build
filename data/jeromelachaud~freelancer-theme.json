@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 618
+    },
+    "2017-06-18": {
+      "stargazers_count": 685
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-03T20:53:42Z",
+        "date": "2017-06-18T15:21:37Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #49 from ASPePeX/master\n\nThe URL on startbootstrap.com changed"
+      "message": "Merge pull request #72 from jourdanrodrigues/patch-1\n\nFix email variable issue."
     }
   ]
 }

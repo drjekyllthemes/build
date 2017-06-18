@@ -10,15 +10,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 23
+    },
+    "2017-06-18": {
+      "stargazers_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-05-26T13:44:13Z",
+        "date": "2017-03-26T14:19:07Z",
         "name": "Alex Carpenter"
       },
-      "message": "Update README.md"
+      "message": "Push example domain"
     }
   ]
 }

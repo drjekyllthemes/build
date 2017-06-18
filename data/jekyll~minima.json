@@ -7,15 +7,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 285
+    },
+    "2017-06-18": {
+      "stargazers_count": 425
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-15T17:47:49Z",
-        "name": "Parker Moore"
+        "date": "2017-04-13T15:09:32Z",
+        "name": "GitHub"
       },
-      "message": "Release :gem: v2.1.0"
+      "message": "Release 2.1.1"
     }
   ]
 }

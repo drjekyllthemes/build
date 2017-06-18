@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 44
+    },
+    "2017-06-18": {
+      "stargazers_count": 53
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-14T12:11:14Z",
-        "name": "Hemang Kumar"
+        "date": "2017-02-15T08:13:28Z",
+        "name": "GitHub"
       },
-      "message": "navbar bug fix"
+      "message": "Delete _syntax-highlighting.scssc"
     }
   ]
 }

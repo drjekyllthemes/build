@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 275
+    },
+    "2017-06-18": {
+      "stargazers_count": 297
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-23T07:19:04Z",
+        "date": "2017-06-17T08:15:12Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #38 from StilgarISCA/MuutSupport\n\nAdd support for Muut commenting"
+      "message": "Merge pull request #46 from divayprakash/patch-1\n\nFix image for non-empty baseurl"
     }
   ]
 }

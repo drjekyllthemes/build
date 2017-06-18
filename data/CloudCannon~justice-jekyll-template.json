@@ -4,15 +4,18 @@
   "history": {
     "2017-02-14": {
       "stargazers_count": 6
+    },
+    "2017-06-18": {
+      "stargazers_count": 13
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-09T00:42:26Z",
-        "name": "Ross Phillips"
+        "date": "2017-03-09T17:51:31Z",
+        "name": "GitHub"
       },
-      "message": "Initial commit"
+      "message": "Fixed broken image on index"
     }
   ]
 }

@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 1272
+    },
+    "2017-06-18": {
+      "stargazers_count": 1379
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-23T15:29:36Z",
+        "date": "2017-05-29T14:02:17Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #309 from Yinchie/master\n\nInvalid setting"
+      "message": "Merge pull request #330 from ashawley/ampersands\n\nQuote ampersand in Google font url"
     }
   ]
 }

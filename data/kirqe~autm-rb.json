@@ -7,15 +7,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 51
+    },
+    "2017-06-18": {
+      "stargazers_count": 58
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-09T12:44:31Z",
-        "name": "GitHub"
+        "date": "2017-04-02T21:14:04Z",
+        "name": "railsr"
       },
-      "message": "Update README.md"
+      "message": "added compact view (title and date for blog)"
     }
   ]
 }

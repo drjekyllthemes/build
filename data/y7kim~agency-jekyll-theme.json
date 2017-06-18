@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 374
+    },
+    "2017-06-18": {
+      "stargazers_count": 411
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-19T19:14:19Z",
+        "date": "2017-02-27T18:44:56Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #56 from TT--/issue-51-navbar-shrink-sooner\n\nwhen scrolling down navbar shrinks sooner..."
+      "message": "Merge pull request #59 from JonathanWade/text-muted-css-fix\n\nFix text-muted class"
     }
   ]
 }

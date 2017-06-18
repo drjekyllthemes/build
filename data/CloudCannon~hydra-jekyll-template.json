@@ -4,15 +4,18 @@
   "history": {
     "2017-02-14": {
       "stargazers_count": 14
+    },
+    "2017-06-18": {
+      "stargazers_count": 30
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-17T19:18:50Z",
-        "name": "Mike Neumegen"
+        "date": "2017-04-17T18:27:09Z",
+        "name": "GitHub"
       },
-      "message": "remove maps.js"
+      "message": "Merge pull request #3 from pastorryanhayden/patch-1\n\nFixed Typo"
     }
   ]
 }

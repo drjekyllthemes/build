@@ -4,15 +4,18 @@
   "history": {
     "2017-02-14": {
       "stargazers_count": 3
+    },
+    "2017-06-18": {
+      "stargazers_count": 7
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-03T15:24:45Z",
+        "date": "2017-04-21T17:34:44Z",
         "name": "Ben Balter"
       },
-      "message": "Correct new issue URL in README"
+      "message": "Add lang property to <html> tag, h/t @mgifford"
     }
   ]
 }

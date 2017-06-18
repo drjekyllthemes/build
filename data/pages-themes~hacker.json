@@ -4,15 +4,18 @@
   "history": {
     "2017-02-14": {
       "stargazers_count": 12
+    },
+    "2017-06-18": {
+      "stargazers_count": 39
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-13T17:58:51Z",
+        "date": "2017-05-08T18:56:03Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #6 from Foaly/patch-1\n\nRemoved css properties with unneeded prefix."
+      "message": "Merge pull request #13 from not-unpleased/patch-1\n\nAdd viewport"
     }
   ]
 }

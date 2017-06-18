@@ -10,15 +10,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 126
+    },
+    "2017-06-18": {
+      "stargazers_count": 153
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-13T12:33:02Z",
+        "date": "2017-06-13T23:04:16Z",
         "name": "Willian Justen"
       },
-      "message": "Add UTC timezone. (#22)"
+      "message": "Fixing issue related on #27"
     }
   ]
 }

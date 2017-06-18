@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 560
+    },
+    "2017-06-18": {
+      "stargazers_count": 591
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-12T22:16:16Z",
+        "date": "2017-05-25T17:48:16Z",
         "name": "Elle Kasai"
       },
-      "message": "Merge branch 'gh-pages' of https://github.com/ellekasai/resumecards into gh-pages"
+      "message": "Add New Post and Remove Twitter"
     }
   ]
 }

@@ -7,15 +7,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 205
+    },
+    "2017-06-18": {
+      "stargazers_count": 309
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-16T09:05:10Z",
+        "date": "2017-06-14T17:23:26Z",
         "name": "Nielsen Ramon"
       },
-      "message": "nr-update-ruby | Update ruby to 2.4.0, fix #38"
+      "message": "Use jQuery short notation"
     }
   ]
 }

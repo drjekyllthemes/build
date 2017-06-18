@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 53
+    },
+    "2017-06-18": {
+      "stargazers_count": 62
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-08T09:33:30Z",
+        "date": "2017-03-24T06:13:34Z",
         "name": "smallmuou"
       },
-      "message": "Merge branch 'master' of github.com:smallmuou/Jekyll-Pithy"
+      "message": "add year"
     }
   ]
 }

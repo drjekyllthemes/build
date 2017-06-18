@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 38
+    },
+    "2017-06-18": {
+      "stargazers_count": 46
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-05-15T03:44:37Z",
-        "name": "Abdel Raoof"
+        "date": "2017-04-14T04:38:30Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #43 from hackerkid/patch-1\n\nadd .jekyll-metadata"
+      "message": "Merge pull request #46 from rickyhan/master\n\nadded support for txtpen"
     }
   ]
 }

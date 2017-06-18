@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 37
+    },
+    "2017-06-18": {
+      "stargazers_count": 45
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-14T08:28:31Z",
+        "date": "2017-06-06T10:42:09Z",
         "name": "GitHub"
       },
-      "message": "updated release number"
+      "message": "Set baseurl to fix redirect bug\n\nClose #35"
     }
   ]
 }

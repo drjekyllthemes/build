@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 740
+    },
+    "2017-06-18": {
+      "stargazers_count": 780
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-26T22:39:13Z",
+        "date": "2017-06-08T14:43:13Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #33 from pavelbinar/master\n\nUpdate README"
+      "message": "Merge pull request #34 from mskims/patch-1\n\nChange disqus script url to be flex"
     }
   ]
 }

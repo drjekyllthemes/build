@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 72
+    },
+    "2017-06-18": {
+      "stargazers_count": 85
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-02-17T07:34:01Z",
-        "name": "Eduardo Rubio"
+        "date": "2017-05-21T10:39:09Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #2 from claman/fix-relative-permalinks\n\nFix relative permalinks and syntax highlighting"
+      "message": "Merge pull request #3 from dhashe/exclude-files\n\nExclude non-site files"
     }
   ]
 }

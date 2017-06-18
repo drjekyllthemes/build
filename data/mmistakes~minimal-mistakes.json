@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 1691
+    },
+    "2017-06-18": {
+      "stargazers_count": 2068
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-24T15:57:24Z",
+        "date": "2017-06-14T14:09:25Z",
         "name": "Michael Rose"
       },
-      "message": "Merge branch 'release/4.2.1'"
+      "message": "Fixed MD link to docs in the 'Helpers' page. (#1066)"
     }
   ]
 }

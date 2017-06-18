@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 90
+    },
+    "2017-06-18": {
+      "stargazers_count": 105
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-10-19T19:06:33Z",
+        "date": "2017-05-19T06:36:42Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #17 from dezon/fix_url\n\nFix url"
+      "message": "Merge pull request #22 from iandioch/patch-1\n\nUpdate head.html to have https font link"
     }
   ]
 }

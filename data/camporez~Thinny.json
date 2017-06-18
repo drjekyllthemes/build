@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 272
+    },
+    "2017-06-18": {
+      "stargazers_count": 276
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-05-14T14:53:04Z",
-        "name": "Ian Brunelli"
+        "date": "2017-04-18T01:16:23Z",
+        "name": "GitHub"
       },
-      "message": "Updated URL."
+      "message": "Merge pull request #38 from bryant1410/master\n\nFix broken headings in Markdown files"
     }
   ]
 }

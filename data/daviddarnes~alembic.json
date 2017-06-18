@@ -7,15 +7,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 41
+    },
+    "2017-06-18": {
+      "stargazers_count": 70
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-05T17:53:31Z",
+        "date": "2017-06-04T15:01:29Z",
         "name": "David Darnes"
       },
-      "message": "Set search.json to null to stop warnings"
+      "message": "Version bump Alembic to 2.1.0"
     }
   ]
 }

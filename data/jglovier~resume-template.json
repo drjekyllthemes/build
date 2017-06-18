@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 362
+    },
+    "2017-06-18": {
+      "stargazers_count": 439
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-01T21:25:39Z",
+        "date": "2017-06-15T10:35:43Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #22 from bryanculver/gh-pages\n\nAdded some print media styles."
+      "message": "fix spelling in one more spot"
     }
   ]
 }

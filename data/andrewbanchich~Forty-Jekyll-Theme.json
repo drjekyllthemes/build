@@ -13,15 +13,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 72
+    },
+    "2017-06-18": {
+      "stargazers_count": 123
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-11T03:38:31Z",
+        "date": "2017-05-25T01:58:12Z",
         "name": "Andrew Banchich"
       },
-      "message": "Update .gitlab-ci.yml"
+      "message": "fixes images not resizing"
     }
   ]
 }

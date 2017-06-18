@@ -7,15 +7,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 9
+    },
+    "2017-06-18": {
+      "stargazers_count": 25
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-04T15:39:30Z",
+        "date": "2017-03-24T15:08:44Z",
         "name": "Heiswayi Nrird"
       },
-      "message": "Minor update"
+      "message": "Update to v1.1"
     }
   ]
 }

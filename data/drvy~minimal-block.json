@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 22
+    },
+    "2017-06-18": {
+      "stargazers_count": 24
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-26T16:06:10Z",
-        "name": "Dragomir Yordanov"
+        "date": "2017-05-29T18:31:22Z",
+        "name": "GitHub"
       },
-      "message": "Configure sass pre-processor and adapt to new stylesheets"
+      "message": "Merge pull request #6 from agrathwohl/liquid-syntax-fix\n\nfix liquid tag in post layout, which causes build warnings"
     }
   ]
 }

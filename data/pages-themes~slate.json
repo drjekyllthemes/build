@@ -4,15 +4,18 @@
   "history": {
     "2017-02-14": {
       "stargazers_count": 8
+    },
+    "2017-06-18": {
+      "stargazers_count": 29
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-17T14:30:25Z",
+        "date": "2017-05-10T19:36:44Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #3 from Edditoria/hotfix/img-max-width\n\nFix image overflow when media screen is smaller than 980px"
+      "message": "Merge pull request #10 from pat-laugh/code-overflow\n\nFix code overflow"
     }
   ]
 }

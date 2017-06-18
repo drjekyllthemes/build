@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 64
+    },
+    "2017-06-18": {
+      "stargazers_count": 65
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-04T15:30:00Z",
-        "name": "yulijia"
+        "date": "2017-03-24T01:14:49Z",
+        "name": "GitHub"
       },
-      "message": "feat(page-img-style): modify page.html image style (#23)"
+      "message": "Merge pull request #31 from Richeir/dev\n\nFix scss convert with none-ANSI charactors. ( issue #27 )"
     }
   ]
 }

@@ -10,15 +10,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 96
+    },
+    "2017-06-18": {
+      "stargazers_count": 185
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-28T13:41:44Z",
-        "name": "GitHub"
+        "date": "2017-03-29T14:56:08Z",
+        "name": "Dude"
       },
-      "message": "Merge pull request #11 from rajanand/patch-1\n\nUpdate linkedin url format."
+      "message": "Optional google analytics"
     }
   ]
 }

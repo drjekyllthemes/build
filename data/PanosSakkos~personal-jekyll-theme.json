@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 348
+    },
+    "2017-06-18": {
+      "stargazers_count": 402
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-28T15:24:14Z",
-        "name": "Panos Sakkos"
+        "date": "2017-06-06T06:20:39Z",
+        "name": "Marcus Eisele"
       },
-      "message": "Modifying warning due to 404 extension (#202)\n\nThanks @djcaesar9114 👏"
+      "message": "Add an option to connect main pic to social profile image from facebook,\ngithub or gravatar.\n\nIn reference to issue #206, implement an option to connect main pic to\nfacebook, github or gravatar profile image."
     }
   ]
 }

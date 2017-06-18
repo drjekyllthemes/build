@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 88
+    },
+    "2017-06-18": {
+      "stargazers_count": 103
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-31T01:52:41Z",
-        "name": "Alex Gil"
+        "date": "2017-05-31T20:21:42Z",
+        "name": "GitHub"
       },
-      "message": "added v2.2 to travis yaml"
+      "message": "added relative link"
     }
   ]
 }

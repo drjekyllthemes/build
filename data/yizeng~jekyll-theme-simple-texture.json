@@ -1,0 +1,18 @@
+{
+  "full_name": "yizeng/jekyll-theme-simple-texture",
+  "created_at": "2017-05-27T10:52:29Z",
+  "history": {
+    "2017-06-18": {
+      "stargazers_count": 2
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-05-30T06:32:39Z",
+        "name": "Yi Zeng"
+      },
+      "message": "Add instructions to replace default Gemfile for installations via forking repo"
+    }
+  ]
+}

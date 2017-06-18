@@ -7,15 +7,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 14
+    },
+    "2017-06-18": {
+      "stargazers_count": 71
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-10T09:27:18Z",
-        "name": "Chayoung You"
+        "date": "2017-06-10T20:09:31Z",
+        "name": "GitHub"
       },
-      "message": "Fix typos"
+      "message": "Merge pull request #10 from Weishaupt/comments\n\nProvide the ability to include custom comments provider"
     }
   ]
 }

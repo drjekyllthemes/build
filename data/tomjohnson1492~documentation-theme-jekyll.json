@@ -16,15 +16,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 387
+    },
+    "2017-06-18": {
+      "stargazers_count": 455
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-10T22:24:00Z",
-        "name": "tomjohnson1492"
+        "date": "2017-06-05T16:27:03Z",
+        "name": "Tom Johnson"
       },
-      "message": "fixed content api tooltips demo"
+      "message": "improved doc around sidebars, fixed bug with topnav code for single items, improved other doc with supported features"
     }
   ]
 }

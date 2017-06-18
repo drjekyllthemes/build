@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 83
+    },
+    "2017-06-18": {
+      "stargazers_count": 88
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2015-12-23T00:35:38Z",
-        "name": "Manav Sehgal"
+        "date": "2017-05-23T20:32:50Z",
+        "name": "GitHub"
       },
-      "message": "Update README.md"
+      "message": "Not hosted anymore."
     }
   ]
 }

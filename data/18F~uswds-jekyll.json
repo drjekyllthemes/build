@@ -1,0 +1,18 @@
+{
+  "full_name": "18F/uswds-jekyll",
+  "created_at": "2017-02-23T23:41:47Z",
+  "history": {
+    "2017-06-18": {
+      "stargazers_count": 26
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-05-15T19:26:45Z",
+        "name": "GitHub"
+      },
+      "message": "Merge pull request #25 from 18F/patch-1.1.1\n\nUpdate USWDS v1.1.0 assets (theme v1.1.1)"
+    }
+  ]
+}

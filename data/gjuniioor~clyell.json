@@ -1,0 +1,18 @@
+{
+  "full_name": "gjuniioor/clyell",
+  "created_at": "2017-06-16T03:14:11Z",
+  "history": {
+    "2017-06-18": {
+      "stargazers_count": 1
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-06-17T12:37:00Z",
+        "name": "Gildásio Júnior"
+      },
+      "message": "Add GPL"
+    }
+  ]
+}

@@ -19,15 +19,18 @@
     },
     "2017-02-14": {
       "stargazers_count": 155
+    },
+    "2017-06-18": {
+      "stargazers_count": 190
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-04T15:48:38Z",
+        "date": "2017-05-08T06:32:10Z",
         "name": "GitHub"
       },
-      "message": "Update _config.yml"
+      "message": "Merge pull request #24 from facundofarias/master\n\nFixing bug when pointing to another blog post"
     }
   ]
 }
