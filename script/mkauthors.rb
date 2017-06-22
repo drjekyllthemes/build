@@ -15,7 +15,7 @@ site_repo   = SITE_REPO      ## File.expand_path( '../drjekyllthemes.github.io' 
 
 
 ## read known ("white-listed") authors from site repo
-text    = File.open( "#{site_repo}/_data/authors.yml", 'r:utf-8') { |f| f.read }
+text    = File.open( "#{site_repo}/_data/author_by_name.yml", 'r:utf-8') { |f| f.read }
 known_authors = YAML.load( text )
 
 pp known_authors
@@ -40,7 +40,7 @@ themes.each do |theme|
   ## for now remove et al
   author = author.sub( 'et al', '' ).strip
   ary = all_authors[ author ] || []
-  ary << theme['title']  ## add theme to theme list/array
+  ary << theme['name']  ## add theme to theme list/array
   all_authors[ author ] = ary
 end
 
@@ -92,6 +92,6 @@ end
 
 ## todo/fix: use utf8 encoding!!!
 ## File.open( "./o/authors.yml", 'w:utf-8' ) do |f|
-File.open( "#{site_repo}/_data/o/themes/authors.yml", 'w:utf-8' ) do |f|
+File.open( "#{site_repo}/_data/o/authors.yml", 'w:utf-8' ) do |f|
   f.write YAML.dump( all_authors2 )
 end

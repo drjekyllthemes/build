@@ -17,8 +17,8 @@ class Themes
     self.new( text )
   end
 
-  def data_by_title() @h;      end    ## returns an hash (index/key by title)
-  def data()          @themes; end    ## returns an array (of hashes/records/key-value pairs)
+  def data_by_name() @h;      end    ## returns an hash (index/key by name)
+  def data()         @themes; end    ## returns an array (of hashes/records/key-value pairs)
 
 
   def initialize( text )
@@ -26,7 +26,7 @@ class Themes
 
     ## pp themes
 
-    ## build a (lookup) index by title
+    ## build a (lookup) index by name
     ## (as key for now - use github full_name for key) - why? why not?
     @h = {}
 
@@ -55,8 +55,8 @@ class Themes
           end
         end
 
-        title = theme['title']
-        @h[ title ] = theme
+        name = theme['name']
+        @h[ name ] = theme
       end
 
     @themes = themes
