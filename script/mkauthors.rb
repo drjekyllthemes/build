@@ -20,8 +20,11 @@ known_authors = YAML.load( text )
 
 pp known_authors
 
+###
+## note: use generated themes array / records - include stats!!!
 
-text   = File.open( "#{themes_repo}/themes.yml", 'r:utf-8') { |f| f.read }
+## text   = File.open( "#{themes_repo}/themes.yml", 'r:utf-8') { |f| f.read }
+text   = File.open( "#{site_repo}/_data/o/themes.yml", 'r:utf-8') { |f| f.read }
 themes = YAML.load( text )
 
 pp themes
@@ -40,7 +43,7 @@ themes.each do |theme|
   ## for now remove et al
   author = author.sub( 'et al', '' ).strip
   ary = all_authors[ author ] || []
-  ary << theme['name']  ## add theme to theme list/array
+  ary << theme  ## add theme to theme list/array
   all_authors[ author ] = ary
 end
 
@@ -63,7 +66,7 @@ all_authors.each do |k,v|
 
     front_matter = {
       'name'   => k,
-      'themes' => v
+      'themes' => v.map { |h| h['name'] }    ## just include array of theme names
     }
 
     ## File.open( "./o/#{github}.md", 'w:utf-8' ) do |f|
@@ -85,8 +88,29 @@ end
 
 all_authors2 = []
 all_authors.each do |k,v|
-  all_authors2 << { 'name' => k, 'themes' => v}  # note: use string as key (for pretty printing yaml output)
+
+  theme_names = v.map { |h| h['name'] }    ## just include array of theme names
+
+  author = {
+    'name' => k,
+    'themes'       =>  theme_names,
+    'themes_count' =>  theme_names.size     ## add for easy sorting
+  }  # note: use string as key (for pretty printing yaml output)
+
+  ## add up all stars
+  stars = v.reduce(0) { |sum,h| sum + (h['stars'] || 0) }
+
+  if stars > 0
+    author['stars'] = stars
+
+    ## try add up all stars_week too
+    stars_week = v.reduce(0) { |sum,h| sum + (h['stars_week'] || 0) }
+    author['stars_week'] = stars_week
+  end
+
+  all_authors2 << author
 end
+
 
 ## puts YAML.dump( all_authors2 )
 
