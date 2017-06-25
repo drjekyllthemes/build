@@ -30,9 +30,9 @@ $ ruby script/upthemes.rb
 
 Who generates what?
 
-| Script      | Output                                   |
-| ----------- | ---------------------------------------- |
-| `mkthemes`  | => `o/theme_by_name.yml`, `o/themes.yml` |
+| Script      | Output                                    |
+| ----------- | ----------------------------------------- |
+| `mkthemes`  | =>  `o/themes.yml`, `o/theme_by_name.yml` |
 | `mkauthors` | => `o/authors.yml` and all `_authors/[name].md` pages |
 | `mktags`    | => `o/tags.yml` |
 | `mkgems`    | => `o/gems.yml` |
