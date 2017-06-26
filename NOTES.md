@@ -75,6 +75,14 @@ script/lib/stats.rb:68:in `fetch': undefined method `[]' for nil:NilClass (NoMet
 ```
 
 
+## More Jekyll Theme Listings / Directories
+
+- http://jekyll-themes.com     by Sharath Kumar (aka webjeda)
+- http://jekyllthemes.ru       by Artem Sheludko
+- http://jekyllthemes.org      by Matt Harzewski
+- http://jekyllthemes.io       by Tyler Cubell
+- http://themes.jekyllrc.org   by Max White (aka mushishi78) and Günter Kits (aka gynter)
+
 
 ## Jekyll Theme Listing Sources
 
