@@ -3,11 +3,13 @@
 
 require 'pp'
 require 'yaml'
+require 'json'
 require 'uri'
+require 'time'
 
+## 3rd party gems
+require 'hubba'
 
-##
-require_relative 'stats'
 
 
 class Themes
@@ -124,7 +126,7 @@ class Themes
     @themes.each do |theme|
       github = theme['github']  ## full_name e.g. poole/hyde
       if github
-        stats = GithubRepoStats.new( github )
+        stats = Hubba::Stats.new( github )
         stats.read( data_dir: data_dir )
         stats.fetch( gh )
 ##

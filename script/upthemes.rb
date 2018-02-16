@@ -1,6 +1,5 @@
 # encoding: utf-8
 
-require_relative 'lib/stats'
 require_relative 'lib/themes'
 
 
