@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 10
+    },
+    "2018-02-16": {
+      "stargazers_count": 16
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-21T17:34:57Z",
-        "name": "Ben Balter"
+        "date": "2018-02-14T17:39:52Z",
+        "name": "GitHub"
       },
-      "message": "Add lang property to <html> tag, h/t @mgifford"
+      "message": "Merge pull request #8 from utdrmac/patch-2\n\nAdd option to hide view on github"
     }
-  ]
+  ],
+  "updated_at": "2017-12-30T15:55:27Z",
+  "pushed_at": "2018-02-14T17:39:53Z",
+  "size": 89
 }

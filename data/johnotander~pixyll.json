@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 1379
+    },
+    "2018-02-16": {
+      "stargazers_count": 1520
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-29T14:02:17Z",
+        "date": "2018-01-08T15:42:18Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #330 from ashawley/ampersands\n\nQuote ampersand in Google font url"
+      "message": "Merge pull request #359 from Wilfred/patch-1\n\nFix invalid property"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T06:40:07Z",
+  "pushed_at": "2018-01-08T15:42:19Z",
+  "size": 1146
 }

@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 233
+    },
+    "2018-02-16": {
+      "stargazers_count": 259
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #6 from johnwook/master\n\nDependency update & Replace gulp-ruby-sass with gulp-sass"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T23:57:52Z",
+  "pushed_at": "2017-12-24T01:49:18Z",
+  "size": 12260
 }

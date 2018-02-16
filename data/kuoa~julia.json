@@ -16,6 +16,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 18
+    },
+    "2018-02-16": {
+      "stargazers_count": 21
     }
   },
   "commits": [
@@ -26,5 +29,8 @@
       },
       "message": "Update LICENSE"
     }
-  ]
+  ],
+  "updated_at": "2018-01-29T03:38:35Z",
+  "pushed_at": "2017-04-23T18:15:04Z",
+  "size": 1215
 }

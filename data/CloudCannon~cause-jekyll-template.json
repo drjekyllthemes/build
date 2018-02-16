@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 14
+    },
+    "2018-02-16": {
+      "stargazers_count": 26
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-09T00:40:06Z",
+        "date": "2018-02-06T02:25:05Z",
         "name": "Mike Neumegen"
       },
-      "message": "Initial commit"
+      "message": "updated _config.yml"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T17:48:53Z",
+  "pushed_at": "2018-02-06T02:25:12Z",
+  "size": 835
 }

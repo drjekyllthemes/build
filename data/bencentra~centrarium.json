@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 144
+    },
+    "2018-02-16": {
+      "stargazers_count": 185
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #40 from falexandrou/master\n\nupdate & fix highlight.js"
     }
-  ]
+  ],
+  "updated_at": "2018-02-11T12:49:15Z",
+  "pushed_at": "2017-08-02T10:24:37Z",
+  "size": 7039
 }

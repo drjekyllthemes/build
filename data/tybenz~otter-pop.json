@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 16
+    },
+    "2018-02-16": {
+      "stargazers_count": 17
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2014-09-03T15:35:19Z",
-        "name": "Tyler Benziger"
+        "date": "2017-10-30T15:54:06Z",
+        "name": "GitHub"
       },
-      "message": "Merge branch 'gh-pages' of github.com:tybenz/otter-pop into gh-pages"
+      "message": "Merge pull request #3 from iamale/gh-pages\n\nFix blurry icons (#2)"
     }
-  ]
+  ],
+  "updated_at": "2017-11-11T17:30:25Z",
+  "pushed_at": "2017-10-30T15:54:07Z",
+  "size": 356
 }

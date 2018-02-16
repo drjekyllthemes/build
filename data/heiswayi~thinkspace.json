@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 109
+    },
+    "2018-02-16": {
+      "stargazers_count": 143
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Update head.html"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T05:34:18Z",
+  "pushed_at": "2017-10-07T01:09:09Z",
+  "size": 4037
 }

@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 366
+    },
+    "2018-02-16": {
+      "stargazers_count": 431
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-11-13T06:39:29Z",
+        "date": "2018-02-07T01:54:03Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #35 from vitogit/upstream\n\nFix css issue on github hosting"
+      "message": "Merge pull request #52 from swanson/revert-46-master\n\nRevert \"Add tags to post (issue #39)\""
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T07:58:42Z",
+  "pushed_at": "2018-02-07T01:54:05Z",
+  "size": 251
 }

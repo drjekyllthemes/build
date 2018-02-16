@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 33
+    },
+    "2018-02-16": {
+      "stargazers_count": 54
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-03T01:51:26Z",
-        "name": "streetturtle"
+        "date": "2017-11-12T15:02:42Z",
+        "name": "GitHub"
       },
-      "message": "Theme 'gemification'"
+      "message": "Merge pull request #4 from jiminhsieh/linkedin-link\n\nAdd LinkedIn link to cv."
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T10:54:58Z",
+  "pushed_at": "2017-11-12T15:02:43Z",
+  "size": 648
 }

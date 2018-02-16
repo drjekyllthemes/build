@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 50
+    },
+    "2018-02-16": {
+      "stargazers_count": 55
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-04-08T23:18:37Z",
-        "name": "Lucas Gatsas"
+        "date": "2017-07-18T09:34:53Z",
+        "name": "SpaceSphere"
       },
       "message": "Update"
     }
-  ]
+  ],
+  "updated_at": "2018-02-11T08:23:48Z",
+  "pushed_at": "2017-12-04T04:52:56Z",
+  "size": 284189
 }

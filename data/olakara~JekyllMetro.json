@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 46
+    },
+    "2018-02-16": {
+      "stargazers_count": 50
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #46 from rickyhan/master\n\nadded support for txtpen"
     }
-  ]
+  ],
+  "updated_at": "2018-01-07T08:34:44Z",
+  "pushed_at": "2017-04-14T04:38:31Z",
+  "size": 5548
 }

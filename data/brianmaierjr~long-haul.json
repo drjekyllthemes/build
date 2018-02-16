@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 271
+    },
+    "2018-02-16": {
+      "stargazers_count": 329
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-07T04:03:00Z",
-        "name": "Brian Maier Jr"
+        "date": "2017-12-04T02:49:30Z",
+        "name": "Brian Maier"
       },
-      "message": "taking out compass references"
+      "message": "Make Google Fonts calls secure"
     }
-  ]
+  ],
+  "updated_at": "2018-02-11T12:39:24Z",
+  "pushed_at": "2017-12-04T02:53:56Z",
+  "size": 16112
 }

@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 4
+    },
+    "2018-02-16": {
+      "stargazers_count": 7
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "merge resolved"
     }
-  ]
+  ],
+  "updated_at": "2018-02-09T02:19:58Z",
+  "pushed_at": "2017-03-19T12:31:35Z",
+  "size": 327
 }

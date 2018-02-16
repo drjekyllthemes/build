@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 68
+    },
+    "2018-02-16": {
+      "stargazers_count": 121
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-09T00:47:14Z",
-        "name": "Ross Phillips"
+        "date": "2018-02-06T02:06:55Z",
+        "name": "GitHub"
       },
-      "message": "Initial commit"
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-06T01:49:58Z",
+  "pushed_at": "2018-02-06T02:06:56Z",
+  "size": 289
 }

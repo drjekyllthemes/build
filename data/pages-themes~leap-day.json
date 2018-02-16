@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 12
+    },
+    "2018-02-16": {
+      "stargazers_count": 24
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-21T17:34:41Z",
-        "name": "Ben Balter"
+        "date": "2018-01-22T15:19:55Z",
+        "name": "GitHub"
       },
-      "message": "Add lang property to <html> tag, h/t @mgifford"
+      "message": "Merge pull request #13 from JoeBiellik/jquery\n\nUpdate jQuery to latest version"
     }
-  ]
+  ],
+  "updated_at": "2018-02-09T16:38:49Z",
+  "pushed_at": "2018-01-22T17:09:04Z",
+  "size": 653
 }

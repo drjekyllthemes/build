@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 66
+    },
+    "2018-02-16": {
+      "stargazers_count": 92
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-24T06:42:10Z",
-        "name": "GitHub"
+        "date": "2018-02-07T06:37:54Z",
+        "name": "Vinit Kumar"
       },
-      "message": "Update footer.html"
+      "message": "add a suble hover affect for the post title links"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T07:50:54Z",
+  "pushed_at": "2018-02-08T08:56:03Z",
+  "size": 987
 }

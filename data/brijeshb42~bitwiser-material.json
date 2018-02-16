@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 15
+    },
+    "2018-02-16": {
+      "stargazers_count": 19
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "relative url fix"
     }
-  ]
+  ],
+  "updated_at": "2018-01-31T06:24:03Z",
+  "pushed_at": "2016-11-22T22:29:00Z",
+  "size": 40
 }

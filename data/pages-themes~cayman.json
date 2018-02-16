@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 90
+    },
+    "2018-02-16": {
+      "stargazers_count": 237
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-24T16:56:18Z",
-        "name": "GitHub"
+        "date": "2018-01-03T16:49:24Z",
+        "name": "Ben Balter"
       },
-      "message": "Merge pull request #2 from sethjackson/fix-title\n\nFix default page titles."
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T23:09:23Z",
+  "pushed_at": "2018-01-03T16:49:26Z",
+  "size": 148
 }

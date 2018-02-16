@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 439
+    },
+    "2018-02-16": {
+      "stargazers_count": 604
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-15T10:35:43Z",
+        "date": "2018-02-12T19:09:29Z",
         "name": "GitHub"
       },
-      "message": "fix spelling in one more spot"
+      "message": "Merge pull request #54 from martinzirkle/gh-pages\n\nUpdated Gems"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T09:41:34Z",
+  "pushed_at": "2018-02-12T19:09:30Z",
+  "size": 1258
 }

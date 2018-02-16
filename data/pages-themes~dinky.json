@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 12
+    },
+    "2018-02-16": {
+      "stargazers_count": 23
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-21T17:34:37Z",
+        "date": "2018-01-03T16:49:35Z",
         "name": "Ben Balter"
       },
-      "message": "Add lang property to <html> tag, h/t @mgifford"
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-13T08:28:53Z",
+  "pushed_at": "2018-01-03T16:49:37Z",
+  "size": 50
 }

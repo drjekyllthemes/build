@@ -1,0 +1,21 @@
+{
+  "full_name": "sharu725/hagura",
+  "created_at": "2016-11-02T14:30:30Z",
+  "updated_at": "2018-02-13T11:06:09Z",
+  "pushed_at": "2018-02-10T22:03:46Z",
+  "size": 434,
+  "history": {
+    "2018-02-16": {
+      "stargazers_count": 119
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-12-30T17:59:31Z",
+        "name": "jekyll"
+      },
+      "message": "no message"
+    }
+  ]
+}

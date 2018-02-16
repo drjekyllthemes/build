@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 1
+    },
+    "2018-02-16": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "Adicionando screenshot 590x300"
     }
-  ]
+  ],
+  "updated_at": "2017-11-07T06:44:34Z",
+  "pushed_at": "2017-04-16T03:42:48Z",
+  "size": 603
 }

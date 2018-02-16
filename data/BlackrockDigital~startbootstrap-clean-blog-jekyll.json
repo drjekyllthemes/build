@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 865
+    },
+    "2018-02-16": {
+      "stargazers_count": 1023
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-19T01:23:52Z",
+        "date": "2018-01-30T01:03:01Z",
         "name": "David Miller"
       },
-      "message": "minor text change to config"
+      "message": "update copyright year on license and readme"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T18:28:56Z",
+  "pushed_at": "2018-01-30T03:18:24Z",
+  "size": 20450
 }

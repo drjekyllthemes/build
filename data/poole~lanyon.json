@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 1914
+    },
+    "2018-02-16": {
+      "stargazers_count": 2115
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #151 from melodykramer/patch-1\n\nUpdate README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T14:18:27Z",
+  "pushed_at": "2018-01-06T17:28:50Z",
+  "size": 3322
 }

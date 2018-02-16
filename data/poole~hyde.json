@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 1906
+    },
+    "2018-02-16": {
+      "stargazers_count": 2128
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #91 from pborreli/patch-1\n\nFixed typo"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T08:28:49Z",
+  "pushed_at": "2018-01-14T02:41:16Z",
+  "size": 28428
 }

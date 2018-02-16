@@ -4,6 +4,9 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 21
+    },
+    "2018-02-16": {
+      "stargazers_count": 32
     }
   },
   "commits": [
@@ -14,5 +17,8 @@
       },
       "message": "Adding a Gemfile to be able to bundle the project (#2)\n\nAdding a Gemfile to be able to bundle the project\r\nThis solves #1"
     }
-  ]
+  ],
+  "updated_at": "2018-01-23T14:01:23Z",
+  "pushed_at": "2016-08-29T22:52:38Z",
+  "size": 172
 }

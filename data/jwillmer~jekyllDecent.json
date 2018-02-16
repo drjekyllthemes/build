@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 45
+    },
+    "2018-02-16": {
+      "stargazers_count": 64
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-06T10:42:09Z",
-        "name": "GitHub"
+        "date": "2017-07-17T11:26:38Z",
+        "name": "Jens Willmer"
       },
-      "message": "Set baseurl to fix redirect bug\n\nClose #35"
+      "message": "Finetuned fuzzysearch #19"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T18:28:53Z",
+  "pushed_at": "2017-07-17T11:26:43Z",
+  "size": 8821
 }

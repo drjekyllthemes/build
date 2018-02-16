@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 32
+    },
+    "2018-02-16": {
+      "stargazers_count": 33
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-08T03:53:53Z",
+        "date": "2018-01-23T04:33:32Z",
         "name": "GitHub"
       },
-      "message": "Update to https link on post"
+      "message": "travis-ci: Remove deprecated options"
     }
-  ]
+  ],
+  "updated_at": "2018-01-27T02:08:58Z",
+  "pushed_at": "2018-01-23T04:33:32Z",
+  "size": 793
 }

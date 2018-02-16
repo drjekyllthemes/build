@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 25
+    },
+    "2018-02-16": {
+      "stargazers_count": 56
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-23T18:47:37Z",
+        "date": "2018-02-06T02:21:27Z",
         "name": "GitHub"
       },
-      "message": "Fixed disqus"
+      "message": "Update _config.yml"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T05:21:02Z",
+  "pushed_at": "2018-02-06T02:21:28Z",
+  "size": 364
 }

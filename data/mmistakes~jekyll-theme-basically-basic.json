@@ -4,15 +4,21 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 60
+    },
+    "2018-02-16": {
+      "stargazers_count": 160
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-31T12:15:24Z",
+        "date": "2018-02-16T20:07:48Z",
         "name": "Michael Rose"
       },
-      "message": "fixed typos (#17)\n\nwant you want --> what you want"
+      "message": "Release 1.3.1 :gem:"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T16:50:20Z",
+  "pushed_at": "2018-02-16T20:08:04Z",
+  "size": 1237
 }

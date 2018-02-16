@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 105
+    },
+    "2018-02-16": {
+      "stargazers_count": 115
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #22 from iandioch/patch-1\n\nUpdate head.html to have https font link"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T08:43:58Z",
+  "pushed_at": "2017-12-19T21:37:22Z",
+  "size": 334
 }

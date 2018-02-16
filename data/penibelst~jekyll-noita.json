@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 38
+    },
+    "2018-02-16": {
+      "stargazers_count": 39
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Remove relative permalinks"
     }
-  ]
+  ],
+  "updated_at": "2017-06-21T20:50:27Z",
+  "pushed_at": "2015-01-14T01:47:30Z",
+  "size": 1056
 }

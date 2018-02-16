@@ -4,15 +4,21 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 47
+    },
+    "2018-02-16": {
+      "stargazers_count": 114
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-24T21:50:13Z",
-        "name": "ramswaroop"
+        "date": "2018-02-01T13:27:58Z",
+        "name": "GitHub"
       },
-      "message": "Merge branch 'gh-pages'"
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-09T03:13:29Z",
+  "pushed_at": "2018-02-01T13:27:59Z",
+  "size": 327208
 }

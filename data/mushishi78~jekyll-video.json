@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 6
+    },
+    "2018-02-16": {
+      "stargazers_count": 7
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Change id to youtube_id"
     }
-  ]
+  ],
+  "updated_at": "2018-01-15T06:39:08Z",
+  "pushed_at": "2015-08-24T03:06:49Z",
+  "size": 160
 }

@@ -10,15 +10,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 425
+    },
+    "2018-02-16": {
+      "stargazers_count": 724
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-13T15:09:32Z",
-        "name": "GitHub"
+        "date": "2018-02-14T04:24:18Z",
+        "name": "jekyllbot"
       },
-      "message": "Release 2.1.1"
+      "message": "Update history to reflect merge of #199 [ci skip]"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T09:11:22Z",
+  "pushed_at": "2018-02-14T04:24:19Z",
+  "size": 330
 }

@@ -4,6 +4,9 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 2
+    },
+    "2018-02-16": {
+      "stargazers_count": 11
     }
   },
   "commits": [
@@ -14,5 +17,8 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-05T20:12:16Z",
+  "pushed_at": "2018-01-06T21:14:34Z",
+  "size": 9038
 }

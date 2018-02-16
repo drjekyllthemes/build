@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 29
+    },
+    "2018-02-16": {
+      "stargazers_count": 64
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-10T19:36:44Z",
-        "name": "GitHub"
+        "date": "2018-01-03T16:49:19Z",
+        "name": "Ben Balter"
       },
-      "message": "Merge pull request #10 from pat-laugh/code-overflow\n\nFix code overflow"
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T00:44:55Z",
+  "pushed_at": "2018-01-03T16:49:22Z",
+  "size": 64
 }

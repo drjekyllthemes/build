@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 2
+    },
+    "2018-02-16": {
+      "stargazers_count": 2
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "Add files via upload"
     }
-  ]
+  ],
+  "updated_at": "2017-01-10T14:27:00Z",
+  "pushed_at": "2017-01-07T08:55:46Z",
+  "size": 8293
 }

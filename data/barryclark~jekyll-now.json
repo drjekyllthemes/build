@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 3653
+    },
+    "2018-02-16": {
+      "stargazers_count": 4542
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-06-08T19:03:46Z",
-        "name": "Erin Grand"
+        "date": "2017-08-27T19:36:53Z",
+        "name": "GitHub"
       },
-      "message": "Update _svg-icons.scss"
+      "message": "Merge pull request #983 from isseiler/patch-1\n\nUpdated the schemes in the sample links to HTTPS instead of HTTP"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T10:27:09Z",
+  "pushed_at": "2018-02-15T00:14:50Z",
+  "size": 8395
 }

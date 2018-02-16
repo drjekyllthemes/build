@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 73
+    },
+    "2018-02-16": {
+      "stargazers_count": 169
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-21T17:34:49Z",
-        "name": "Ben Balter"
+        "date": "2018-01-02T15:44:47Z",
+        "name": "GitHub"
       },
-      "message": "Add lang property to <html> tag, h/t @mgifford"
+      "message": "Merge pull request #26 from Jmuccigr/patch-1\n\nCreate post.html"
     }
-  ]
+  ],
+  "updated_at": "2018-02-13T06:02:54Z",
+  "pushed_at": "2018-01-03T16:49:19Z",
+  "size": 360
 }

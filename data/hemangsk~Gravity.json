@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 228
+    },
+    "2018-02-16": {
+      "stargazers_count": 276
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-12T16:02:20Z",
-        "name": "GitHub"
+        "date": "2017-10-25T14:59:13Z",
+        "name": "Hemang Kumar"
       },
-      "message": "README.md: Add full size screenshot"
+      "message": "Added logic to switch themes"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T05:20:06Z",
+  "pushed_at": "2017-10-27T16:48:53Z",
+  "size": 83
 }

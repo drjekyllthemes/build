@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 84
+    },
+    "2018-02-16": {
+      "stargazers_count": 90
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #4 from rowanoulton/better-retina-support\n\nBetter retina support"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T18:16:34Z",
+  "pushed_at": "2015-09-09T10:00:27Z",
+  "size": 589
 }

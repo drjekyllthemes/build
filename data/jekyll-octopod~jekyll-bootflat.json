@@ -7,6 +7,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 3
+    },
+    "2018-02-16": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -17,5 +20,8 @@
       },
       "message": "version bump"
     }
-  ]
+  ],
+  "updated_at": "2017-02-13T21:50:01Z",
+  "pushed_at": "2017-01-14T21:59:53Z",
+  "size": 923
 }

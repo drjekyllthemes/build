@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 88
+    },
+    "2018-02-16": {
+      "stargazers_count": 107
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-23T20:32:50Z",
+        "date": "2017-12-03T05:56:33Z",
         "name": "GitHub"
       },
-      "message": "Not hosted anymore."
+      "message": "Upgrade activesupport ~> 4.2.2 security vulnerability"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T19:02:01Z",
+  "pushed_at": "2017-12-03T05:56:34Z",
+  "size": 7717
 }

@@ -13,15 +13,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 185
+    },
+    "2018-02-16": {
+      "stargazers_count": 338
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-29T14:56:08Z",
-        "name": "Dude"
+        "date": "2018-02-08T05:03:54Z",
+        "name": "jekyll"
       },
-      "message": "Optional google analytics"
+      "message": "credits to the changes"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T18:06:43Z",
+  "pushed_at": "2018-02-11T10:58:46Z",
+  "size": 1074
 }

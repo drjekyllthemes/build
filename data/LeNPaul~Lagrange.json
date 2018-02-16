@@ -10,15 +10,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 54
+    },
+    "2018-02-16": {
+      "stargazers_count": 120
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-24T16:21:29Z",
-        "name": "GitHub"
+        "date": "2018-02-16T01:28:06Z",
+        "name": "Paul Le"
       },
-      "message": "Update main.css"
+      "message": "Update About page for better information"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T02:03:31Z",
+  "pushed_at": "2018-02-16T01:28:17Z",
+  "size": 8193
 }

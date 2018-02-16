@@ -13,6 +13,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 28
+    },
+    "2018-02-16": {
+      "stargazers_count": 30
     }
   },
   "commits": [
@@ -23,5 +26,8 @@
       },
       "message": "Merge pull request #2 from David-Ro/patch-1\n\nUpdate README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-01-29T01:52:25Z",
+  "pushed_at": "2016-03-21T20:47:52Z",
+  "size": 3746
 }

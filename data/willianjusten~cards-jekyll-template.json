@@ -13,15 +13,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 153
+    },
+    "2018-02-16": {
+      "stargazers_count": 198
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-13T23:04:16Z",
+        "date": "2017-11-19T22:08:10Z",
         "name": "Willian Justen"
       },
-      "message": "Fixing issue related on #27"
+      "message": "Desabilitar comentários nos posts com comments: false. (#29)"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T06:23:01Z",
+  "pushed_at": "2018-01-09T03:48:30Z",
+  "size": 632
 }

@@ -10,15 +10,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 70
+    },
+    "2018-02-16": {
+      "stargazers_count": 114
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-04T15:01:29Z",
+        "date": "2018-02-14T00:05:55Z",
         "name": "David Darnes"
       },
-      "message": "Version bump Alembic to 2.1.0"
+      "message": "Version bump 3.0.1"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T12:06:36Z",
+  "pushed_at": "2018-02-14T00:06:33Z",
+  "size": 5395
 }

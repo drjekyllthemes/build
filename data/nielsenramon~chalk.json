@@ -10,15 +10,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 309
+    },
+    "2018-02-16": {
+      "stargazers_count": 493
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-14T17:23:26Z",
+        "date": "2018-02-09T15:01:49Z",
         "name": "Nielsen Ramon"
       },
-      "message": "Use jQuery short notation"
+      "message": "Updated introduction post with new build commands."
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T09:11:47Z",
+  "pushed_at": "2018-02-09T15:01:51Z",
+  "size": 14428
 }

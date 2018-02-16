@@ -4,15 +4,21 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 210
+    },
+    "2018-02-16": {
+      "stargazers_count": 499
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-28T02:01:52Z",
+        "date": "2017-07-26T18:54:08Z",
         "name": "GitHub"
       },
-      "message": "update to reflect completed documentation"
+      "message": "disable read more links by default"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T16:06:24Z",
+  "pushed_at": "2018-02-10T06:07:17Z",
+  "size": 49994
 }

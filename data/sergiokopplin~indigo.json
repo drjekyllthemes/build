@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 515
+    },
+    "2018-02-16": {
+      "stargazers_count": 837
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-21T15:33:33Z",
+        "date": "2017-11-02T23:25:11Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #234 from ravpacheco/gh-pages\n\nFix social link issue (#232) on mobile versions"
+      "message": "Merge pull request #265 from sergiokopplin/jekyll-admin\n\nJekyll admin documentation update"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T15:15:47Z",
+  "pushed_at": "2018-02-15T23:53:22Z",
+  "size": 15963
 }

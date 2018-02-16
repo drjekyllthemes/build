@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 780
+    },
+    "2018-02-16": {
+      "stargazers_count": 826
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-08T14:43:13Z",
+        "date": "2017-08-12T09:50:07Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #34 from mskims/patch-1\n\nChange disqus script url to be flex"
+      "message": "Merge pull request #39 from jasonrhaas/liquid-fixes\n\nLiquid fixes"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T11:19:29Z",
+  "pushed_at": "2017-08-13T23:27:22Z",
+  "size": 840
 }

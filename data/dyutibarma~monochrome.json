@@ -4,15 +4,21 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 23
+    },
+    "2018-02-16": {
+      "stargazers_count": 48
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-15T03:45:56Z",
-        "name": "GitHub"
+        "date": "2017-08-07T17:06:15Z",
+        "name": "Dyuti"
       },
-      "message": "Update 2017-02-18-thereviewindex-introduction.md"
+      "message": "Merge branch 'master' of https://github.com/dyutibarma/monochrome"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T04:31:48Z",
+  "pushed_at": "2017-08-07T17:07:06Z",
+  "size": 256
 }

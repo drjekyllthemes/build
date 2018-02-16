@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 61
+    },
+    "2018-02-16": {
+      "stargazers_count": 71
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-30T14:51:17Z",
+        "date": "2018-02-15T18:15:58Z",
         "name": "Karlo Espiritu"
       },
-      "message": "updated config params"
+      "message": "bump version; update content section use full width"
     }
-  ]
+  ],
+  "updated_at": "2018-02-08T15:18:56Z",
+  "pushed_at": "2018-02-15T18:16:09Z",
+  "size": 2288
 }

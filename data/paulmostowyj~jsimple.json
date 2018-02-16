@@ -1,18 +1,24 @@
 {
   "full_name": "paulmostowyj/jsimple",
-  "created_at": "2017-04-25T21:24:26Z",
+  "created_at": "2017-10-14T22:02:39Z",
   "history": {
     "2017-06-18": {
+      "stargazers_count": 1
+    },
+    "2018-02-16": {
       "stargazers_count": 1
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-14T22:08:23Z",
+        "date": "2017-10-14T22:04:37Z",
         "name": "paulmostowyj"
       },
-      "message": "more images"
+      "message": "imported theme from my archive"
     }
-  ]
+  ],
+  "updated_at": "2017-12-27T23:48:08Z",
+  "pushed_at": "2017-10-14T22:04:42Z",
+  "size": 428
 }

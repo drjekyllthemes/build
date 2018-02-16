@@ -4,6 +4,9 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 3
+    },
+    "2018-02-16": {
+      "stargazers_count": 4
     }
   },
   "commits": [
@@ -14,5 +17,8 @@
       },
       "message": "responsive header fixes"
     }
-  ]
+  ],
+  "updated_at": "2017-12-27T13:07:06Z",
+  "pushed_at": "2017-03-19T12:19:52Z",
+  "size": 434
 }

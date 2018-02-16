@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 13
+    },
+    "2018-02-16": {
+      "stargazers_count": 19
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Deleted Unwanted files"
     }
-  ]
+  ],
+  "updated_at": "2017-12-31T16:30:58Z",
+  "pushed_at": "2014-12-20T04:45:17Z",
+  "size": 3048
 }

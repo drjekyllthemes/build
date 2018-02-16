@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 12
+    },
+    "2018-02-16": {
+      "stargazers_count": 22
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "change baseurl"
     }
-  ]
+  ],
+  "updated_at": "2018-02-03T06:36:17Z",
+  "pushed_at": "2017-10-08T22:45:28Z",
+  "size": 91
 }

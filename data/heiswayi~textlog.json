@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 25
+    },
+    "2018-02-16": {
+      "stargazers_count": 41
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "Update to v1.1"
     }
-  ]
+  ],
+  "updated_at": "2018-02-02T11:49:47Z",
+  "pushed_at": "2017-03-27T16:24:44Z",
+  "size": 19
 }

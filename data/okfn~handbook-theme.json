@@ -19,6 +19,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 11
+    },
+    "2018-02-16": {
+      "stargazers_count": 11
     }
   },
   "commits": [
@@ -29,5 +32,8 @@
       },
       "message": "new OK Panel markup"
     }
-  ]
+  ],
+  "updated_at": "2017-05-13T05:03:27Z",
+  "pushed_at": "2016-05-20T11:05:27Z",
+  "size": 6976
 }

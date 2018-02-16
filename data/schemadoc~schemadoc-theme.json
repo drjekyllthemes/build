@@ -7,6 +7,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 5
+    },
+    "2018-02-16": {
+      "stargazers_count": 6
     }
   },
   "commits": [
@@ -17,5 +20,8 @@
       },
       "message": "Update symbols.html"
     }
-  ]
+  ],
+  "updated_at": "2017-11-25T23:57:55Z",
+  "pushed_at": "2017-01-14T17:56:14Z",
+  "size": 28
 }

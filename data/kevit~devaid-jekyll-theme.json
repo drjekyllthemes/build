@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 32
+    },
+    "2018-02-16": {
+      "stargazers_count": 34
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-08-25T13:41:37Z",
-        "name": "GitHub"
+        "date": "2017-07-04T15:50:09Z",
+        "name": "siarhei.karatkevich"
       },
-      "message": "Merge pull request #4 from thundergolfer/master\n\nImproving README file."
+      "message": "adding custom menu and basic blog/page templates"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T19:04:18Z",
+  "pushed_at": "2017-07-04T15:50:15Z",
+  "size": 2132
 }

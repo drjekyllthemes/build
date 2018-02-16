@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 324
+    },
+    "2018-02-16": {
+      "stargazers_count": 331
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Fixed minor invalid html"
     }
-  ]
+  ],
+  "updated_at": "2018-02-11T01:37:02Z",
+  "pushed_at": "2017-10-07T22:13:34Z",
+  "size": 55049
 }

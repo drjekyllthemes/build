@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 253
+    },
+    "2018-02-16": {
+      "stargazers_count": 270
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Remove Twitter and Gist"
     }
-  ]
+  ],
+  "updated_at": "2018-02-06T19:15:34Z",
+  "pushed_at": "2017-08-10T07:07:32Z",
+  "size": 195
 }

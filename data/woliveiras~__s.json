@@ -13,15 +13,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 32
+    },
+    "2018-02-16": {
+      "stargazers_count": 36
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-12T13:16:51Z",
-        "name": "GitHub"
+        "date": "2017-12-02T23:47:39Z",
+        "name": "woliveiras"
       },
-      "message": "Merge pull request #9 from kvnol/patch\n\nAdd meta viewport"
+      "message": "Configure CSS"
     }
-  ]
+  ],
+  "updated_at": "2017-10-07T08:20:30Z",
+  "pushed_at": "2017-12-02T23:47:48Z",
+  "size": 127
 }

@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 169
+    },
+    "2018-02-16": {
+      "stargazers_count": 187
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-03T16:08:20Z",
+        "date": "2017-08-04T21:26:28Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #48 from Sparker0i/patch-1\n\nAdd sparker0i.github.io to main repo"
+      "message": "Merge pull request #53 from kris27mc/master\n\nAdded kris27mc.github.io to README"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T08:00:09Z",
+  "pushed_at": "2017-08-04T21:26:29Z",
+  "size": 573
 }

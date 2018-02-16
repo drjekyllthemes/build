@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 226
+    },
+    "2018-02-16": {
+      "stargazers_count": 255
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "changed font names to conform to tufte-css naming convention was: ETBembo now: ETbook"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T21:14:12Z",
+  "pushed_at": "2017-01-23T16:10:27Z",
+  "size": 7556
 }

@@ -4,6 +4,9 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 9
+    },
+    "2018-02-16": {
+      "stargazers_count": 14
     }
   },
   "commits": [
@@ -14,5 +17,8 @@
       },
       "message": "Update txtpen.html"
     }
-  ]
+  ],
+  "updated_at": "2018-01-05T15:57:47Z",
+  "pushed_at": "2017-05-06T11:59:52Z",
+  "size": 4208
 }

@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 164
+    },
+    "2018-02-16": {
+      "stargazers_count": 166
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "changed config.yml to reflect repo's name changes"
     }
-  ]
+  ],
+  "updated_at": "2017-12-31T08:31:36Z",
+  "pushed_at": "2016-02-07T02:20:42Z",
+  "size": 5506
 }

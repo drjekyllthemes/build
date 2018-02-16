@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 161
+    },
+    "2018-02-16": {
+      "stargazers_count": 175
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #6 from bekce/master\n\nJekyll 3 support"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T19:50:15Z",
+  "pushed_at": "2016-09-23T12:49:23Z",
+  "size": 77
 }

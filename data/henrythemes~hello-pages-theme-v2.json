@@ -4,6 +4,9 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 2
+    },
+    "2018-02-16": {
+      "stargazers_count": 3
     }
   },
   "commits": [
@@ -14,5 +17,8 @@
       },
       "message": "up pages"
     }
-  ]
+  ],
+  "updated_at": "2017-07-24T14:24:15Z",
+  "pushed_at": "2017-01-13T01:45:22Z",
+  "size": 8
 }

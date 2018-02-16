@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 65
+    },
+    "2018-02-16": {
+      "stargazers_count": 73
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-24T01:14:49Z",
-        "name": "GitHub"
+        "date": "2018-01-01T07:49:55Z",
+        "name": "yulijia"
       },
-      "message": "Merge pull request #31 from Richeir/dev\n\nFix scss convert with none-ANSI charactors. ( issue #27 )"
+      "message": "use lato"
     }
-  ]
+  ],
+  "updated_at": "2018-01-10T03:15:25Z",
+  "pushed_at": "2018-01-01T07:49:59Z",
+  "size": 298
 }

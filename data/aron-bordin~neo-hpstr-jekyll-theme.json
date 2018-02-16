@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 113
+    },
+    "2018-02-16": {
+      "stargazers_count": 143
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-01-31T22:40:59Z",
+  "pushed_at": "2018-02-11T16:21:16Z",
+  "size": 4066
 }

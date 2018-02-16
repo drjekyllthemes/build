@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 297
+    },
+    "2018-02-16": {
+      "stargazers_count": 408
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-17T08:15:12Z",
+        "date": "2017-12-25T21:26:03Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #46 from divayprakash/patch-1\n\nFix image for non-empty baseurl"
+      "message": "Merge pull request #69 from laurieboyes/header-description-link\n\nColor for header description anchor element"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T17:21:15Z",
+  "pushed_at": "2018-01-17T22:19:50Z",
+  "size": 305
 }

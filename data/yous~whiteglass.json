@@ -10,15 +10,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 71
+    },
+    "2018-02-16": {
+      "stargazers_count": 194
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-10T20:09:31Z",
-        "name": "GitHub"
+        "date": "2018-01-10T11:39:52Z",
+        "name": "Chayoung You"
       },
-      "message": "Merge pull request #10 from Weishaupt/comments\n\nProvide the ability to include custom comments provider"
+      "message": "Update history to reflect merge of #19 [ci skip]"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T09:14:11Z",
+  "pushed_at": "2018-01-10T11:41:15Z",
+  "size": 768
 }

@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 77
+    },
+    "2018-02-16": {
+      "stargazers_count": 103
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Version 2.1 released"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T19:03:46Z",
+  "pushed_at": "2017-03-22T04:15:47Z",
+  "size": 25853
 }

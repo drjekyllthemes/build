@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 151
+    },
+    "2018-02-16": {
+      "stargazers_count": 183
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #77 from brianbunke/gh-pages\n\nBump Font Awesome version to 4.7.0"
     }
-  ]
+  ],
+  "updated_at": "2018-02-09T14:33:14Z",
+  "pushed_at": "2017-12-01T22:42:52Z",
+  "size": 1614
 }

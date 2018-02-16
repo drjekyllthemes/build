@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 129
+    },
+    "2018-02-16": {
+      "stargazers_count": 146
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-06T06:45:42Z",
+        "date": "2018-02-14T02:24:47Z",
         "name": "Tunghsiao Liu"
       },
-      "message": "docs(readme): add Greenkeeper badge"
+      "message": "feat(config): expose site to local network"
     }
-  ]
+  ],
+  "updated_at": "2018-01-22T00:06:31Z",
+  "pushed_at": "2018-02-14T02:24:59Z",
+  "size": 4212
 }

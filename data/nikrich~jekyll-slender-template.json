@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 25
+    },
+    "2018-02-16": {
+      "stargazers_count": 29
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #21 from nikrich/dev\n\nUpdate README.md"
     }
-  ]
+  ],
+  "updated_at": "2017-12-31T16:03:56Z",
+  "pushed_at": "2017-09-04T07:24:22Z",
+  "size": 478
 }

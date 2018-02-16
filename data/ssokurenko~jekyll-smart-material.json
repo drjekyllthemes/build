@@ -16,6 +16,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 7
+    },
+    "2018-02-16": {
+      "stargazers_count": 10
     }
   },
   "commits": [
@@ -26,5 +29,8 @@
       },
       "message": "Added theme screenshot."
     }
-  ]
+  ],
+  "updated_at": "2017-10-18T08:18:49Z",
+  "pushed_at": "2016-12-22T03:33:40Z",
+  "size": 1253
 }

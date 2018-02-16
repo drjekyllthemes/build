@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 300
+    },
+    "2018-02-16": {
+      "stargazers_count": 301
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-01-26T21:53:13Z",
+        "date": "2017-10-25T11:45:17Z",
         "name": "Shu Uesugi"
       },
-      "message": "Merge pull request #18 from davisonio/fix-loading\n\nFix loading of main.css and fix mix content warnings"
+      "message": "Deprecation notice"
     }
-  ]
+  ],
+  "updated_at": "2018-01-13T15:28:33Z",
+  "pushed_at": "2017-10-25T11:45:22Z",
+  "size": 40
 }

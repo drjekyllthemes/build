@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 109
+    },
+    "2018-02-16": {
+      "stargazers_count": 124
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-07-27T21:45:56Z",
+        "date": "2018-02-15T01:33:29Z",
         "name": "Scott Emmons"
       },
-      "message": "Fix gh-pages documentation"
+      "message": "Add .gitlab-ci.yml to support gitlab pages"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T04:23:42Z",
+  "pushed_at": "2018-02-15T01:35:52Z",
+  "size": 127
 }

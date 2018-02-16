@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 58
+    },
+    "2018-02-16": {
+      "stargazers_count": 98
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-14T16:36:56Z",
+        "date": "2018-01-17T06:12:43Z",
         "name": "bk2dcradle"
       },
-      "message": "updated readme | remove https"
+      "message": "set url as https"
     }
-  ]
+  ],
+  "updated_at": "2018-02-11T21:31:33Z",
+  "pushed_at": "2018-01-17T06:12:56Z",
+  "size": 78
 }

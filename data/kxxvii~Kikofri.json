@@ -10,15 +10,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 2
+    },
+    "2018-02-16": {
+      "stargazers_count": 3
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-06T11:13:22Z",
-        "name": "kxxvii"
+        "date": "2017-11-18T22:25:09Z",
+        "name": "GitHub"
       },
-      "message": "typo\n\tmodified:   README.md"
+      "message": "Changed url"
     }
-  ]
+  ],
+  "updated_at": "2017-12-06T20:16:37Z",
+  "pushed_at": "2017-11-21T11:22:25Z",
+  "size": 3635
 }

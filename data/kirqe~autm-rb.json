@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 58
+    },
+    "2018-02-16": {
+      "stargazers_count": 61
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "added compact view (title and date for blog)"
     }
-  ]
+  ],
+  "updated_at": "2018-01-26T04:18:16Z",
+  "pushed_at": "2017-12-17T13:08:29Z",
+  "size": 2842
 }

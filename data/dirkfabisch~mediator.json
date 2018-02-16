@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 617
+    },
+    "2018-02-16": {
+      "stargazers_count": 664
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-18T20:13:40Z",
+        "date": "2017-09-04T06:35:32Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #73 from jasuarez/fix-social-network-share\n\nFix social network share"
+      "message": "Merge pull request #79 from lucianosousa/ruby24-support\n\nadd ruby 2.4 support"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T14:12:07Z",
+  "pushed_at": "2017-11-19T21:54:23Z",
+  "size": 16874
 }

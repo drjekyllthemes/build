@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 28
+    },
+    "2018-02-16": {
+      "stargazers_count": 34
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #3 from djds23/master\n\nAdd Gemfile"
     }
-  ]
+  ],
+  "updated_at": "2018-01-22T17:55:00Z",
+  "pushed_at": "2017-12-17T01:18:16Z",
+  "size": 427
 }

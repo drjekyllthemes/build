@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 31
+    },
+    "2018-02-16": {
+      "stargazers_count": 38
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-04-06T01:03:29Z",
-        "name": "Rizky Ariestiyansyah"
+        "date": "2017-10-08T18:01:15Z",
+        "name": "GitHub"
       },
-      "message": "Merge pull request #10 from rearrange/master\n\nChanges to support Jekyll 3"
+      "message": "Remove GA code"
     }
-  ]
+  ],
+  "updated_at": "2018-01-28T15:36:09Z",
+  "pushed_at": "2017-10-08T18:01:16Z",
+  "size": 247
 }

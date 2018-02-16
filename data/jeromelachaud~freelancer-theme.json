@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 685
+    },
+    "2018-02-16": {
+      "stargazers_count": 794
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-18T15:21:37Z",
+        "date": "2017-12-29T14:45:44Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #72 from jourdanrodrigues/patch-1\n\nFix email variable issue."
+      "message": "Merge pull request #78 from watkinsmatthewp/master\n\nOnly include elements that are specified in modals"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T23:54:51Z",
+  "pushed_at": "2018-01-03T16:53:14Z",
+  "size": 4473
 }

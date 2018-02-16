@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 39
+    },
+    "2018-02-16": {
+      "stargazers_count": 98
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-08T18:56:03Z",
+        "date": "2018-02-13T15:02:38Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #13 from not-unpleased/patch-1\n\nAdd viewport"
+      "message": "Merge pull request #22 from JAORMX/increase-width\n\nIncrease overall width to max 1000px"
     }
-  ]
+  ],
+  "updated_at": "2018-02-13T14:07:18Z",
+  "pushed_at": "2018-02-13T15:02:39Z",
+  "size": 63
 }

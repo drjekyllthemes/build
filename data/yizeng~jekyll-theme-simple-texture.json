@@ -4,15 +4,21 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 2
+    },
+    "2018-02-16": {
+      "stargazers_count": 64
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-30T06:32:39Z",
-        "name": "Yi Zeng"
+        "date": "2017-09-29T21:30:37Z",
+        "name": "GitHub"
       },
-      "message": "Add instructions to replace default Gemfile for installations via forking repo"
+      "message": "Merge pull request #13 from yizeng/hotfix/#12/fix-disqus-protocols\n\nFix Disqus scripts protocols"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T15:50:56Z",
+  "pushed_at": "2017-09-29T21:31:31Z",
+  "size": 2881
 }

@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 13
+    },
+    "2018-02-16": {
+      "stargazers_count": 13
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-03-01T07:51:48Z",
-        "name": "chalatz"
+        "date": "2017-07-31T09:02:44Z",
+        "name": "GitHub"
       },
-      "message": "corrected a link"
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2017-12-03T03:09:54Z",
+  "pushed_at": "2017-07-31T09:02:45Z",
+  "size": 191
 }

@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 160
+    },
+    "2018-02-16": {
+      "stargazers_count": 175
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Merge pull request #11 from kylesferrazza/patch-3\n\nTitle and Description from config"
     }
-  ]
+  ],
+  "updated_at": "2018-02-12T13:04:31Z",
+  "pushed_at": "2017-03-24T21:01:09Z",
+  "size": 18268
 }

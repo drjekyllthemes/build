@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 361
+    },
+    "2018-02-16": {
+      "stargazers_count": 371
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Style footnotes and tables (#30)\n\nNormalize.scss removes superscript from footnote markers. Make footnote markers small & superscript.\r\n\r\nTables are not styled at all; add some styling to make tables look better."
     }
-  ]
+  ],
+  "updated_at": "2018-02-10T17:13:47Z",
+  "pushed_at": "2018-01-30T18:46:15Z",
+  "size": 52735
 }

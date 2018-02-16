@@ -10,6 +10,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 33
+    },
+    "2018-02-16": {
+      "stargazers_count": 49
     }
   },
   "commits": [
@@ -20,5 +23,8 @@
       },
       "message": "Updated to Bootstrap Alpha 5.\nOther minor tweaks."
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T02:45:45Z",
+  "pushed_at": "2016-12-05T17:02:25Z",
+  "size": 1278
 }

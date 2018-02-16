@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 152
+    },
+    "2018-02-16": {
+      "stargazers_count": 152
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "Add jekyll-sitemap"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T08:41:23Z",
+  "pushed_at": "2015-09-10T13:43:50Z",
+  "size": 1558
 }

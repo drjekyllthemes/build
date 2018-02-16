@@ -1,0 +1,21 @@
+{
+  "full_name": "artemsheludko/adam-blog",
+  "created_at": "2017-09-06T10:24:57Z",
+  "updated_at": "2018-02-15T04:31:39Z",
+  "pushed_at": "2017-12-30T22:33:48Z",
+  "size": 3658,
+  "history": {
+    "2018-02-16": {
+      "stargazers_count": 39
+    }
+  },
+  "commits": [
+    {
+      "committer": {
+        "date": "2017-09-24T06:05:18Z",
+        "name": "GitHub"
+      },
+      "message": "Update .gitignore"
+    }
+  ]
+}

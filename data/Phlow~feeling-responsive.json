@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 337
+    },
+    "2018-02-16": {
+      "stargazers_count": 416
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-23T12:48:46Z",
-        "name": "GitHub"
+        "date": "2017-10-17T11:51:46Z",
+        "name": "Moritz »mo.« Sauer"
       },
-      "message": "Merge pull request #146 from NeverMin/fix-liquid-syntax-error\n\nfixed Liquid syntax error #145"
+      "message": "Added how to edit navigation to documentation"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T18:02:29Z",
+  "pushed_at": "2017-11-17T15:12:41Z",
+  "size": 56558
 }

@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 66
+    },
+    "2018-02-16": {
+      "stargazers_count": 80
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-01-12T23:16:22Z",
+        "date": "2017-10-06T11:52:43Z",
         "name": "GitHub"
       },
-      "message": "Update README.md"
+      "message": "Merge pull request #6 from AbhishekBiswal/master\n\nAdded option to open social icons in new tab"
     }
-  ]
+  ],
+  "updated_at": "2018-02-13T21:30:16Z",
+  "pushed_at": "2018-02-05T19:18:27Z",
+  "size": 1257
 }

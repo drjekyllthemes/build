@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 68
+    },
+    "2018-02-16": {
+      "stargazers_count": 92
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-02-27T13:51:45Z",
-        "name": "GitHub"
+        "date": "2018-02-11T01:22:51Z",
+        "name": "streetturtle"
       },
-      "message": "Update README.md"
+      "message": "Adding table styling, fix for issue #16"
     }
-  ]
+  ],
+  "updated_at": "2018-02-07T13:28:21Z",
+  "pushed_at": "2018-02-11T01:23:18Z",
+  "size": 3364
 }

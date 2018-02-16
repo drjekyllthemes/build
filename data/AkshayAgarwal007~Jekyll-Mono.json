@@ -22,6 +22,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 86
+    },
+    "2018-02-16": {
+      "stargazers_count": 103
     }
   },
   "commits": [
@@ -32,5 +35,8 @@
       },
       "message": "updated rss icon"
     }
-  ]
+  ],
+  "updated_at": "2018-02-14T05:09:16Z",
+  "pushed_at": "2017-12-02T10:24:32Z",
+  "size": 956
 }

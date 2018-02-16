@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 23
+    },
+    "2018-02-16": {
+      "stargazers_count": 56
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-21T17:34:32Z",
-        "name": "Ben Balter"
+        "date": "2018-02-05T17:02:35Z",
+        "name": "GitHub"
       },
-      "message": "Add lang property to <html> tag, h/t @mgifford"
+      "message": "Merge pull request #17 from olestourko/fix-profile-url\n\nSwapped github user page link to correct URL variable"
     }
-  ]
+  ],
+  "updated_at": "2018-02-13T10:53:54Z",
+  "pushed_at": "2018-02-05T17:02:37Z",
+  "size": 186
 }

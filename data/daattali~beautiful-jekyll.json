@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 678
+    },
+    "2018-02-16": {
+      "stargazers_count": 983
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-17T16:20:47Z",
+        "date": "2018-02-13T05:59:08Z",
         "name": "Dean Attali"
       },
-      "message": "Added fallback fonts to footer copyright. (#216)"
+      "message": "minor mispelling and missing quotes (#319)"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T18:28:58Z",
+  "pushed_at": "2018-02-13T05:59:09Z",
+  "size": 3642
 }

@@ -4,15 +4,21 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 26
+    },
+    "2018-02-16": {
+      "stargazers_count": 44
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-15T19:26:45Z",
+        "date": "2018-02-15T17:43:07Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #25 from 18F/patch-1.1.1\n\nUpdate USWDS v1.1.0 assets (theme v1.1.1)"
+      "message": "Merge pull request #119 from 18F/bh-default-css\n\nUse Sass for default stylesheet"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T17:58:53Z",
+  "pushed_at": "2018-02-16T19:21:19Z",
+  "size": 12863
 }

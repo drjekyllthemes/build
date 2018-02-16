@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 103
+    },
+    "2018-02-16": {
+      "stargazers_count": 110
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-31T20:21:42Z",
+        "date": "2017-11-19T00:26:03Z",
         "name": "GitHub"
       },
-      "message": "added relative link"
+      "message": "updated README page to redirect users"
     }
-  ]
+  ],
+  "updated_at": "2018-01-12T06:40:29Z",
+  "pushed_at": "2017-11-19T00:26:04Z",
+  "size": 1625
 }

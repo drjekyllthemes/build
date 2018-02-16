@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 2068
+    },
+    "2018-02-16": {
+      "stargazers_count": 3120
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-06-14T14:09:25Z",
+        "date": "2018-02-16T20:19:01Z",
         "name": "Michael Rose"
       },
-      "message": "Fixed MD link to docs in the 'Helpers' page. (#1066)"
+      "message": "Update jQuery to v`3.3.1`\n\nClose #1491"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T20:00:09Z",
+  "pushed_at": "2018-02-16T20:19:09Z",
+  "size": 40171
 }

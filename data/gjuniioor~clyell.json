@@ -4,6 +4,9 @@
   "history": {
     "2017-06-18": {
       "stargazers_count": 1
+    },
+    "2018-02-16": {
+      "stargazers_count": 13
     }
   },
   "commits": [
@@ -14,5 +17,8 @@
       },
       "message": "Add GPL"
     }
-  ]
+  ],
+  "updated_at": "2018-02-03T23:29:27Z",
+  "pushed_at": "2017-06-17T12:44:41Z",
+  "size": 1806
 }

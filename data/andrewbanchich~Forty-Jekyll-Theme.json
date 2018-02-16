@@ -16,15 +16,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 123
+    },
+    "2018-02-16": {
+      "stargazers_count": 228
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-25T01:58:12Z",
+        "date": "2017-07-05T22:13:04Z",
         "name": "Andrew Banchich"
       },
-      "message": "fixes images not resizing"
+      "message": "Update footer.html"
     }
-  ]
+  ],
+  "updated_at": "2018-02-16T01:27:14Z",
+  "pushed_at": "2018-02-07T23:22:46Z",
+  "size": 2580
 }

@@ -13,6 +13,9 @@
     },
     "2017-06-18": {
       "stargazers_count": 26
+    },
+    "2018-02-16": {
+      "stargazers_count": 36
     }
   },
   "commits": [
@@ -23,5 +26,8 @@
       },
       "message": "Push example domain"
     }
-  ]
+  ],
+  "updated_at": "2017-12-31T15:47:47Z",
+  "pushed_at": "2017-03-26T14:19:22Z",
+  "size": 299
 }

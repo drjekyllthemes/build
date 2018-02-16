@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 804
+    },
+    "2018-02-16": {
+      "stargazers_count": 890
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-09-15T02:06:51Z",
-        "name": "Michael Rose"
+        "date": "2018-02-06T20:16:53Z",
+        "name": "GitHub"
       },
-      "message": "Merge branch 'release/1.7.6'"
+      "message": "Create .gitattributes"
     }
-  ]
+  ],
+  "updated_at": "2018-02-13T12:30:04Z",
+  "pushed_at": "2018-02-06T20:16:53Z",
+  "size": 3559
 }

@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 5
+    },
+    "2018-02-16": {
+      "stargazers_count": 9
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2016-12-09T00:38:08Z",
-        "name": "Mike Neumegen"
+        "date": "2018-02-06T01:32:00Z",
+        "name": "GitHub"
       },
-      "message": "Initial commit"
+      "message": "Update README.md"
     }
-  ]
+  ],
+  "updated_at": "2018-02-06T01:31:06Z",
+  "pushed_at": "2018-02-06T01:32:01Z",
+  "size": 7473
 }

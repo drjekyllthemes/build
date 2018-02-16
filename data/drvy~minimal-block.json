@@ -22,15 +22,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 24
+    },
+    "2018-02-16": {
+      "stargazers_count": 27
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-05-29T18:31:22Z",
+        "date": "2017-07-08T19:18:16Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #6 from agrathwohl/liquid-syntax-fix\n\nfix liquid tag in post layout, which causes build warnings"
+      "message": "Merge pull request #8 from stephengroat/patch-1\n\nfix bad css reference"
     }
-  ]
+  ],
+  "updated_at": "2018-01-19T21:48:22Z",
+  "pushed_at": "2017-07-08T19:18:17Z",
+  "size": 136
 }

@@ -7,15 +7,21 @@
     },
     "2017-06-18": {
       "stargazers_count": 30
+    },
+    "2018-02-16": {
+      "stargazers_count": 77
     }
   },
   "commits": [
     {
       "committer": {
-        "date": "2017-04-17T18:27:09Z",
+        "date": "2018-02-06T02:20:05Z",
         "name": "GitHub"
       },
-      "message": "Merge pull request #3 from pastorryanhayden/patch-1\n\nFixed Typo"
+      "message": "Update _config.yml"
     }
-  ]
+  ],
+  "updated_at": "2018-02-15T17:50:58Z",
+  "pushed_at": "2018-02-06T02:20:06Z",
+  "size": 1391
 }
