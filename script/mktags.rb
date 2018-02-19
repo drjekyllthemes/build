@@ -14,7 +14,7 @@ themes_repo = THEMES_REPO    ## File.expand_path( '../themes' )
 site_repo   = SITE_REPO      ## File.expand_path( '../drjekyllthemes.github.io' )
 
 
-text   = File.read( "#{themes_repo}/themes.yml" )
+text   = File.read( "#{themes_repo}/themes_i.yml" )
 themes = YAML.load( text )
 
 pp themes

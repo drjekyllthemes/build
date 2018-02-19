@@ -79,7 +79,7 @@ class Themes
       github = theme['github']  ## full_name e.g. poole/hyde
       next   if github.nil?   ## skip if not github full_name / handle present
 
-      stats = GithubRepoStats.new( github )
+      stats = Hubba::Stats.new( github )
       stats.read( data_dir: data_dir )
 
       if stats.data['created_at']
@@ -95,28 +95,19 @@ class Themes
         theme['commit_msg'] = "#{commit_msg} by #{committer_name}"
       end
 
-      history = stats.data['history']
-      if history
-        history_keys  = stats.data['history'].keys.sort.reverse
-        ## todo/fix: for now assumes one entry per week
-        ##    simple case [0] and [1] for a week later
-        ##   check actual date - why? why not?
-        stats_this_week = history_keys[0] ? history[ history_keys[0] ] : nil
-        stats_last_week = history_keys[1] ? history[ history_keys[1] ] : nil
+      if stats.history
+        theme['stars'] = stats.stars
 
-        if stats_this_week
-          stars1 = stats_this_week['stargazers_count']
-          theme['stars'] = stars1
-          if stats_last_week
-            stars2 =stats_last_week['stargazers_count']
-            theme['stars_week'] = stars1 - stars2
-          else
-            theme['stars_week'] = 0   ## if no diff for week; set to 0 for now
-          end
+        stars_diff = stats.calc_diff_stars
+        if stars_diff     ## todo: rename to starts_month !!!
+          theme['stars_week'] = stars_diff
+        else
+          theme['stars_week'] = 0   ## if no diff for week; set to 0 for now
         end
       end
     end # each theme
   end # read_stats
+
 
 
   def update_stats( cache_dir: './cache', data_dir: './data' )

@@ -3,14 +3,13 @@
 ##### run as:
 # $ ruby  ./script/mkthemes.rb
 
-require_relative 'lib/stats'
 require_relative 'lib/themes'
 
 
 require_relative 'settings'
 
 
-themes = Themes.from_file( "#{THEMES_REPO}/themes.yml" )
+themes = Themes.from_file( "#{THEMES_REPO}/themes_i.yml" )
 themes.read_stats( data_dir: './data' )
 
 
