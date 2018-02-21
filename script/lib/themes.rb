@@ -14,13 +14,55 @@ require 'hubba'
 
 class Themes
 
+class Theme
+
+class GitHubRepo
+
+  attr_reader :stats
+
+  def initialize( full_name, data_dir: './data' )
+    @stats = Hubba::Stats.new( full_name )
+    @stats.read( data_dir: data_dir )
+  end
+
+  def diff()  @diff ||= stats.calc_diff_stars( samples: 3, days: 30 ); end
+
+end  # class GitHubRepo
+
+
+
+  attr_reader :name, :data, :repo
+
+  def initialize( name, data, data_dir: './data' )
+    @name = name
+    @data = data
+
+    github = data['github']  ## full_name e.g. poole/hyde
+    if github.nil?   ## skip if not github full_name / handle present
+      ## skip do nothing? use nil pattern - why? why not??
+      @repo = nil
+    else
+      @repo = GitHubRepo.new( github, data_dir: data_dir )
+    end
+  end
+
+end # class Theme
+
+
+
   def self.from_file( path )
     text = File.open( path, 'r:utf-8' ) { |file| file.read }
     self.new( text )
   end
 
-  def data_by_name() @h;      end    ## returns an hash (index/key by name)
-  def data()         @themes; end    ## returns an array (of hashes/records/key-value pairs)
+  def data_by_name() @theme_by_name; end    ## returns an hash (index/key by name)
+  def data()         @themes;        end    ## returns an array (of hashes/records/key-value pairs)
+
+
+  ### use rows for now (for "typed" theme records)
+  ##  rename data to ??? - why? why not?
+  def rows()   @rows;  end
+
 
 
   def initialize( text )
@@ -30,7 +72,10 @@ class Themes
 
     ## build a (lookup) index by name
     ## (as key for now - use github full_name for key) - why? why not?
-    @h = {}
+    @theme_by_name = {}
+
+    ### use rows for now (for "typed" theme records)
+    @rows = []
 
     themes.each do |theme|
 
@@ -58,11 +103,15 @@ class Themes
         end
 
         name = theme['name']
-        @h[ name ] = theme
+        @theme_by_name[ name ] = theme
+
+        @rows << Theme.new( name, theme, data_dir: './data' )
       end
 
     @themes = themes
   end # def initialize
+
+
 
 
   def read_stats( data_dir: './data')    ### merge (updated) stats into themes recs
