@@ -1,0 +1,15 @@
+{
+  "full_name": "gustavoquinalha/jekyll-help-center-theme",
+  "created_at": "2017-12-12T15:50:55Z",
+  "updated_at": "2023-06-10T16:08:31Z",
+  "pushed_at": "2022-10-05T23:10:21Z",
+  "size": 4541,
+  "description": "Simple and responsive Jekyll theme for help center.",
+  "language": "CSS",
+  "history": {
+    "2023-08-28": {
+      "stargazers_count": 168,
+      "forks_count": 86
+    }
+  }
+}

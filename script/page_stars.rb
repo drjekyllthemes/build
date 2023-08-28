@@ -1,7 +1,5 @@
-# encoding: utf-8
-
-
-##### run as:
+##### 
+#  run as:
 # $ ruby script/page_stars.rb
 
 require_relative 'lib/themes'
@@ -10,7 +8,7 @@ require_relative 'lib/themes'
 require_relative 'settings'
 
 
-themes = Themes.from_file( "#{THEMES_REPO}/themes_i.yml" )
+themes = Themes.read( "#{THEMES_REPO}/themes_i.yml" )
 
 puts "  #{themes.rows.size} themes"
 

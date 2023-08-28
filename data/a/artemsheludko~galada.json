@@ -1,0 +1,15 @@
+{
+  "full_name": "artemsheludko/galada",
+  "created_at": "2018-10-25T12:20:17Z",
+  "updated_at": "2023-08-23T01:24:45Z",
+  "pushed_at": "2021-11-23T14:28:20Z",
+  "size": 1864,
+  "description": "Galada is an easy and simple blog theme for Jekyll.",
+  "language": "SCSS",
+  "history": {
+    "2023-08-28": {
+      "stargazers_count": 138,
+      "forks_count": 126
+    }
+  }
+}

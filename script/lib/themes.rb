@@ -1,6 +1,3 @@
-# encoding: utf-8
-
-
 require 'pp'
 require 'yaml'
 require 'json'
@@ -9,7 +6,13 @@ require 'time'
 
 ## 3rd party gems
 require 'hubba'
+require 'hubba/reports'   ## note: required for Hubba::Stats accessors!!!
 
+module Hubba
+class Stats
+  def data() @data; end
+end
+end
 
 
 class Themes
@@ -20,10 +23,10 @@ class GitHubRepo
 
   attr_reader :stats
 
-  def initialize( full_name, data_dir: './data' )
+  def initialize( full_name )
     @stats = Hubba::Stats.new( full_name )
-    @stats.read( data_dir: data_dir )
-  end
+    @stats.read
+    end
 
   def diff()  @diff ||= stats.calc_diff_stars( samples: 3, days: 30 ); end
 
@@ -33,16 +36,21 @@ end  # class GitHubRepo
 
   attr_reader :name, :data, :repo
 
-  def initialize( name, data, data_dir: './data' )
+  def initialize( name, data )
     @name = name
     @data = data
 
     github = data['github']  ## full_name e.g. poole/hyde
+
+    puts "==> theme >#{@name}< @ github >#{github}<..."
+    ## pp @data
+
+
     if github.nil?   ## skip if not github full_name / handle present
       ## skip do nothing? use nil pattern - why? why not??
       @repo = nil
     else
-      @repo = GitHubRepo.new( github, data_dir: data_dir )
+      @repo = GitHubRepo.new( github )
     end
   end
 
@@ -50,9 +58,9 @@ end # class Theme
 
 
 
-  def self.from_file( path )
+  def self.read( path )
     text = File.open( path, 'r:utf-8' ) { |file| file.read }
-    self.new( text )
+    new( text )
   end
 
   def data_by_name() @theme_by_name; end    ## returns an hash (index/key by name)
@@ -84,6 +92,10 @@ end # class Theme
         github = theme['github']
         if github
           branch = theme[ 'branch'] || 'master' ## if no branch listed assume master
+
+          ## note: cut-off if starts with https://github.com/
+          github = theme['github'] = github.sub( 'https://github.com/', '' )
+
           theme[ 'home_url' ]     = "https://github.com/#{github}"
           theme[ 'download_url' ] = "https://github.com/#{github}/archive/#{branch}.zip"
         else   ## assume no github shortcut - try adding github shortcut if present
@@ -105,16 +117,18 @@ end # class Theme
         name = theme['name']
         @theme_by_name[ name ] = theme
 
-        @rows << Theme.new( name, theme, data_dir: './data' )
+        @rows << Theme.new( name, theme )
       end
 
+    ## puts
+    ## pp themes
     @themes = themes
   end # def initialize
 
 
 
 
-  def read_stats( data_dir: './data')    ### merge (updated) stats into themes recs
+  def read_stats    ### merge (updated) stats into themes recs
     @themes.each do |theme|
 
       ## first remove/clean old stats entries
@@ -129,7 +143,7 @@ end # class Theme
       next   if github.nil?   ## skip if not github full_name / handle present
 
       stats = Hubba::Stats.new( github )
-      stats.read( data_dir: data_dir )
+      stats.read
 
       if stats.data['created_at']
         theme['created'] = Time.iso8601( stats.data['created_at'] )
@@ -159,22 +173,30 @@ end # class Theme
 
 
 
-  def update_stats( cache_dir: './cache', data_dir: './data' )
+  def update_stats
 
-    gh = Hubba::Github.new( cache_dir: cache_dir )
+    gh = Hubba::Github.new
 
     @themes.each do |theme|
       github = theme['github']  ## full_name e.g. poole/hyde
       if github
         stats = Hubba::Stats.new( github )
-        stats.read( data_dir: data_dir )
-        stats.fetch( gh )
-##
+        stats.read
+
+        begin
+          repo  = gh.repo( github )
+          stats.update( repo )
+          stats.write
+        rescue Hubba::HttpError => ex
+          msg = "http error -- #{ex.message}"
+          puts "   !! ERROR - #{msg}"
+          ## continue for now 
+        end
+#
 ##  todo:
 ##  check for status 301 e.g.
 ## "status => 301 Moved Permanently"
 
-        stats.write( data_dir: data_dir )
       end
     end
   end  # update_stats

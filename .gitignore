@@ -1,4 +1,5 @@
-## exclude output (o) folder
-
-o/
+## exclude github cache
 cache/
+tmp/
+
+

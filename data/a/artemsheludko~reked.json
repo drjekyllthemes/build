@@ -1,0 +1,15 @@
+{
+  "full_name": "artemsheludko/reked",
+  "created_at": "2019-08-30T11:19:34Z",
+  "updated_at": "2023-01-29T20:19:06Z",
+  "pushed_at": "2020-01-09T20:01:28Z",
+  "size": 3726,
+  "description": "💨  Reked is a minimal and responsive blog theme for Jekyll. It is focused on the content, speed, simplicity",
+  "language": "CSS",
+  "history": {
+    "2023-08-28": {
+      "stargazers_count": 41,
+      "forks_count": 29
+    }
+  }
+}
